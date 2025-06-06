@@ -1,0 +1,12 @@
+datasets==3.6.0
+matplotlib==3.10.3
+numpy==2.2.6
+opencv_contrib_python==4.10.0.84
+opencv_python==4.10.0.84
+pandas==2.3.0
+peft==0.10.0
+torch==2.7.0+cu128
+tqdm==4.67.1
+transformers==4.53.0.dev0
+trl==0.19.0
+ultralytics==8.3.145
