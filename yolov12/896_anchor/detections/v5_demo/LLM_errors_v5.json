@@ -1,0 +1,2177 @@
+{
+  "errors": [
+    {
+      "image": "vid5_1_frame_00038_jpg.rf.322442a67937935a7f5e8cc3ece8b36f.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            355,
+            256,
+            481,
+            293
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            270,
+            262,
+            360,
+            297
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            469,
+            230,
+            725,
+            290
+          ]
+        }
+      ],
+      "task": "Clear a remote pile",
+      "calculated": "pile2",
+      "predicted": "pile3"
+    },
+    {
+      "image": "vid5_1_frame_00050_jpg.rf.c9b159e4efedc53eb33bef84febe845f.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            532,
+            197,
+            886,
+            313
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            181,
+            241,
+            333,
+            293
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            504,
+            260,
+            607,
+            311
+          ]
+        },
+        {
+          "name": "pile4",
+          "bbox": [
+            126,
+            254,
+            200,
+            280
+          ]
+        },
+        {
+          "name": "pile5",
+          "bbox": [
+            386,
+            257,
+            483,
+            279
+          ]
+        },
+        {
+          "name": "pile6",
+          "bbox": [
+            166,
+            255,
+            221,
+            289
+          ]
+        },
+        {
+          "name": "pile7",
+          "bbox": [
+            354,
+            280,
+            490,
+            308
+          ]
+        },
+        {
+          "name": "pile8",
+          "bbox": [
+            356,
+            228,
+            560,
+            274
+          ]
+        }
+      ],
+      "task": "Clear a pile as fast as possible",
+      "calculated": "pile6",
+      "predicted": "pile4"
+    },
+    {
+      "image": "vid5_1_frame_00056_jpg.rf.85510081b0cad31aea1786d4d878bbba.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            480,
+            196,
+            777,
+            260
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            2,
+            199,
+            173,
+            285
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            236,
+            200,
+            463,
+            277
+          ]
+        },
+        {
+          "name": "pile4",
+          "bbox": [
+            207,
+            219,
+            301,
+            244
+          ]
+        },
+        {
+          "name": "pile5",
+          "bbox": [
+            485,
+            261,
+            820,
+            361
+          ]
+        },
+        {
+          "name": "pile6",
+          "bbox": [
+            132,
+            227,
+            214,
+            240
+          ]
+        }
+      ],
+      "task": "Clear a remote pile",
+      "calculated": "pile2",
+      "predicted": "pile1"
+    },
+    {
+      "image": "vid5_1_frame_00059_jpg.rf.670e86e6e76c27a865c556f6cad58d60.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            271,
+            196,
+            534,
+            289
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            545,
+            197,
+            888,
+            271
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            2,
+            198,
+            183,
+            294
+          ]
+        },
+        {
+          "name": "pile4",
+          "bbox": [
+            251,
+            219,
+            340,
+            243
+          ]
+        },
+        {
+          "name": "pile5",
+          "bbox": [
+            606,
+            232,
+            721,
+            267
+          ]
+        },
+        {
+          "name": "pile6",
+          "bbox": [
+            545,
+            219,
+            651,
+            255
+          ]
+        },
+        {
+          "name": "pile7",
+          "bbox": [
+            263,
+            215,
+            365,
+            276
+          ]
+        },
+        {
+          "name": "pile8",
+          "bbox": [
+            609,
+            292,
+            892,
+            434
+          ]
+        },
+        {
+          "name": "pile9",
+          "bbox": [
+            211,
+            225,
+            256,
+            239
+          ]
+        }
+      ],
+      "task": "Clear a pile as fast as possible",
+      "calculated": "pile9",
+      "predicted": "pile4"
+    },
+    {
+      "image": "vid5_1_frame_00059_jpg.rf.670e86e6e76c27a865c556f6cad58d60.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            271,
+            196,
+            534,
+            289
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            545,
+            197,
+            888,
+            271
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            2,
+            198,
+            183,
+            294
+          ]
+        },
+        {
+          "name": "pile4",
+          "bbox": [
+            251,
+            219,
+            340,
+            243
+          ]
+        },
+        {
+          "name": "pile5",
+          "bbox": [
+            606,
+            232,
+            721,
+            267
+          ]
+        },
+        {
+          "name": "pile6",
+          "bbox": [
+            545,
+            219,
+            651,
+            255
+          ]
+        },
+        {
+          "name": "pile7",
+          "bbox": [
+            263,
+            215,
+            365,
+            276
+          ]
+        },
+        {
+          "name": "pile8",
+          "bbox": [
+            609,
+            292,
+            892,
+            434
+          ]
+        },
+        {
+          "name": "pile9",
+          "bbox": [
+            211,
+            225,
+            256,
+            239
+          ]
+        }
+      ],
+      "task": "Fill the shovel",
+      "calculated": "pile7",
+      "predicted": "pile4"
+    },
+    {
+      "image": "vid5_1_frame_00071_jpg.rf.7cb568f5ec0022725d6503ae31e8cf2b.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            591,
+            274,
+            894,
+            621
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            524,
+            203,
+            890,
+            303
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            320,
+            239,
+            347,
+            248
+          ]
+        },
+        {
+          "name": "pile4",
+          "bbox": [
+            0,
+            209,
+            292,
+            546
+          ]
+        },
+        {
+          "name": "pile5",
+          "bbox": [
+            472,
+            221,
+            618,
+            257
+          ]
+        },
+        {
+          "name": "pile6",
+          "bbox": [
+            369,
+            238,
+            394,
+            248
+          ]
+        },
+        {
+          "name": "pile7",
+          "bbox": [
+            5,
+            207,
+            201,
+            279
+          ]
+        },
+        {
+          "name": "pile8",
+          "bbox": [
+            349,
+            241,
+            368,
+            249
+          ]
+        },
+        {
+          "name": "pile9",
+          "bbox": [
+            535,
+            236,
+            629,
+            280
+          ]
+        },
+        {
+          "name": "pile10",
+          "bbox": [
+            418,
+            231,
+            483,
+            248
+          ]
+        }
+      ],
+      "task": "Clear a pile as fast as possible",
+      "calculated": "pile8",
+      "predicted": "pile6"
+    },
+    {
+      "image": "vid5_1_frame_00074_jpg.rf.b4ef0c6e450a990c92601f3ceea4a62d.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            501,
+            219,
+            675,
+            260
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            590,
+            213,
+            896,
+            316
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            2,
+            212,
+            178,
+            295
+          ]
+        },
+        {
+          "name": "pile4",
+          "bbox": [
+            454,
+            230,
+            514,
+            248
+          ]
+        },
+        {
+          "name": "pile5",
+          "bbox": [
+            333,
+            244,
+            364,
+            253
+          ]
+        },
+        {
+          "name": "pile6",
+          "bbox": [
+            387,
+            238,
+            413,
+            251
+          ]
+        },
+        {
+          "name": "pile7",
+          "bbox": [
+            361,
+            240,
+            396,
+            252
+          ]
+        },
+        {
+          "name": "pile8",
+          "bbox": [
+            430,
+            235,
+            471,
+            247
+          ]
+        },
+        {
+          "name": "pile9",
+          "bbox": [
+            1,
+            329,
+            201,
+            533
+          ]
+        },
+        {
+          "name": "pile10",
+          "bbox": [
+            592,
+            239,
+            723,
+            292
+          ]
+        },
+        {
+          "name": "pile11",
+          "bbox": [
+            716,
+            206,
+            880,
+            247
+          ]
+        }
+      ],
+      "task": "Fill the shovel",
+      "calculated": "pile6",
+      "predicted": "pile4"
+    },
+    {
+      "image": "vid5_1_frame_00077_jpg.rf.3a42e63adc412e0ada289bffa48ca590.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            699,
+            241,
+            894,
+            345
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            166,
+            240,
+            277,
+            266
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            0,
+            213,
+            158,
+            291
+          ]
+        },
+        {
+          "name": "pile4",
+          "bbox": [
+            345,
+            243,
+            380,
+            255
+          ]
+        },
+        {
+          "name": "pile5",
+          "bbox": [
+            534,
+            216,
+            739,
+            264
+          ]
+        },
+        {
+          "name": "pile6",
+          "bbox": [
+            703,
+            209,
+            890,
+            273
+          ]
+        },
+        {
+          "name": "pile7",
+          "bbox": [
+            503,
+            222,
+            586,
+            250
+          ]
+        },
+        {
+          "name": "pile8",
+          "bbox": [
+            373,
+            245,
+            410,
+            256
+          ]
+        },
+        {
+          "name": "pile9",
+          "bbox": [
+            441,
+            235,
+            497,
+            248
+          ]
+        },
+        {
+          "name": "pile10",
+          "bbox": [
+            490,
+            233,
+            532,
+            249
+          ]
+        },
+        {
+          "name": "pile11",
+          "bbox": [
+            404,
+            242,
+            434,
+            258
+          ]
+        }
+      ],
+      "task": "Start at the rightmost pile",
+      "calculated": "pile1",
+      "predicted": "pile6"
+    },
+    {
+      "image": "vid5_1_frame_00080_jpg.rf.455ac8b000f9fe8a618adc1b8937bc86.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            0,
+            227,
+            130,
+            296
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            28,
+            239,
+            187,
+            273
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            164,
+            230,
+            312,
+            259
+          ]
+        },
+        {
+          "name": "pile4",
+          "bbox": [
+            572,
+            212,
+            896,
+            276
+          ]
+        },
+        {
+          "name": "pile5",
+          "bbox": [
+            363,
+            244,
+            401,
+            257
+          ]
+        },
+        {
+          "name": "pile6",
+          "bbox": [
+            394,
+            246,
+            435,
+            258
+          ]
+        },
+        {
+          "name": "pile7",
+          "bbox": [
+            422,
+            237,
+            459,
+            255
+          ]
+        },
+        {
+          "name": "pile8",
+          "bbox": [
+            459,
+            225,
+            621,
+            252
+          ]
+        },
+        {
+          "name": "pile9",
+          "bbox": [
+            461,
+            236,
+            505,
+            249
+          ]
+        },
+        {
+          "name": "pile10",
+          "bbox": [
+            220,
+            209,
+            338,
+            248
+          ]
+        }
+      ],
+      "task": "Fill the shovel",
+      "calculated": "pile6",
+      "predicted": "pile5"
+    },
+    {
+      "image": "vid5_1_frame_00086_jpg.rf.6bc583b95a75b8f624d2d2d5f2e3ed8b.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            0,
+            231,
+            314,
+            280
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            561,
+            238,
+            646,
+            256
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            473,
+            247,
+            526,
+            265
+          ]
+        },
+        {
+          "name": "pile4",
+          "bbox": [
+            426,
+            244,
+            477,
+            260
+          ]
+        },
+        {
+          "name": "pile5",
+          "bbox": [
+            764,
+            225,
+            894,
+            305
+          ]
+        },
+        {
+          "name": "pile6",
+          "bbox": [
+            721,
+            229,
+            835,
+            268
+          ]
+        },
+        {
+          "name": "pile7",
+          "bbox": [
+            518,
+            248,
+            555,
+            262
+          ]
+        },
+        {
+          "name": "pile8",
+          "bbox": [
+            615,
+            236,
+            687,
+            260
+          ]
+        },
+        {
+          "name": "pile9",
+          "bbox": [
+            307,
+            226,
+            367,
+            250
+          ]
+        }
+      ],
+      "task": "Clear a pile as fast as possible",
+      "calculated": "pile7",
+      "predicted": "pile3"
+    },
+    {
+      "image": "vid5_1_frame_00089_jpg.rf.fd098c44fcf761de8f666a340d7879bd.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            718,
+            226,
+            824,
+            262
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            814,
+            226,
+            894,
+            273
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            436,
+            247,
+            496,
+            266
+          ]
+        },
+        {
+          "name": "pile4",
+          "bbox": [
+            556,
+            252,
+            591,
+            267
+          ]
+        },
+        {
+          "name": "pile5",
+          "bbox": [
+            492,
+            251,
+            555,
+            273
+          ]
+        }
+      ],
+      "task": "Clear a pile as fast as possible",
+      "calculated": "pile4",
+      "predicted": "pile3"
+    },
+    {
+      "image": "vid5_1_frame_00092_jpg.rf.6b750f74df7216e44ffcce5c5288d351.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            0,
+            230,
+            247,
+            274
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            246,
+            224,
+            382,
+            255
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            364,
+            237,
+            401,
+            253
+          ]
+        },
+        {
+          "name": "pile4",
+          "bbox": [
+            519,
+            253,
+            612,
+            283
+          ]
+        },
+        {
+          "name": "pile5",
+          "bbox": [
+            592,
+            224,
+            892,
+            269
+          ]
+        },
+        {
+          "name": "pile6",
+          "bbox": [
+            447,
+            249,
+            520,
+            272
+          ]
+        },
+        {
+          "name": "pile7",
+          "bbox": [
+            591,
+            251,
+            642,
+            280
+          ]
+        }
+      ],
+      "task": "Clear a pile as fast as possible",
+      "calculated": "pile3",
+      "predicted": "pile4"
+    },
+    {
+      "image": "vid5_1_frame_00095_jpg.rf.bccb278d4576674812a4f2209a994756.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            560,
+            254,
+            697,
+            303
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            262,
+            223,
+            387,
+            258
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            464,
+            252,
+            552,
+            282
+          ]
+        },
+        {
+          "name": "pile4",
+          "bbox": [
+            762,
+            223,
+            894,
+            272
+          ]
+        },
+        {
+          "name": "pile5",
+          "bbox": [
+            655,
+            238,
+            767,
+            264
+          ]
+        },
+        {
+          "name": "pile6",
+          "bbox": [
+            185,
+            236,
+            268,
+            271
+          ]
+        },
+        {
+          "name": "pile7",
+          "bbox": [
+            3,
+            225,
+            173,
+            259
+          ]
+        },
+        {
+          "name": "pile8",
+          "bbox": [
+            389,
+            240,
+            409,
+            256
+          ]
+        }
+      ],
+      "task": "Process the largest pile",
+      "calculated": "pile1",
+      "predicted": "pile3"
+    },
+    {
+      "image": "vid5_2_frame_00001_jpg.rf.2f029e739436a8054a0e3ae8a922590f.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            424,
+            237,
+            896,
+            361
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            130,
+            198,
+            417,
+            283
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            30,
+            198,
+            225,
+            260
+          ]
+        }
+      ],
+      "task": "Start at the rightmost pile",
+      "calculated": null,
+      "predicted": null
+    },
+    {
+      "image": "vid5_2_frame_00001_jpg.rf.2f029e739436a8054a0e3ae8a922590f.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            424,
+            237,
+            896,
+            361
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            130,
+            198,
+            417,
+            283
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            30,
+            198,
+            225,
+            260
+          ]
+        }
+      ],
+      "task": "Clear a remote pile",
+      "calculated": null,
+      "predicted": null
+    },
+    {
+      "image": "vid5_2_frame_00001_jpg.rf.2f029e739436a8054a0e3ae8a922590f.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            424,
+            237,
+            896,
+            361
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            130,
+            198,
+            417,
+            283
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            30,
+            198,
+            225,
+            260
+          ]
+        }
+      ],
+      "task": "Clear a pile as fast as possible",
+      "calculated": null,
+      "predicted": null
+    },
+    {
+      "image": "vid5_2_frame_00001_jpg.rf.2f029e739436a8054a0e3ae8a922590f.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            424,
+            237,
+            896,
+            361
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            130,
+            198,
+            417,
+            283
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            30,
+            198,
+            225,
+            260
+          ]
+        }
+      ],
+      "task": "Start at the leftmost pile",
+      "calculated": null,
+      "predicted": null
+    },
+    {
+      "image": "vid5_2_frame_00001_jpg.rf.2f029e739436a8054a0e3ae8a922590f.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            424,
+            237,
+            896,
+            361
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            130,
+            198,
+            417,
+            283
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            30,
+            198,
+            225,
+            260
+          ]
+        }
+      ],
+      "task": "Process the largest pile",
+      "calculated": null,
+      "predicted": null
+    },
+    {
+      "image": "vid5_2_frame_00001_jpg.rf.2f029e739436a8054a0e3ae8a922590f.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            424,
+            237,
+            896,
+            361
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            130,
+            198,
+            417,
+            283
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            30,
+            198,
+            225,
+            260
+          ]
+        }
+      ],
+      "task": "Fill the shovel",
+      "calculated": null,
+      "predicted": null
+    },
+    {
+      "image": "vid5_2_frame_00007_jpg.rf.03a254374ffa8178423aba80a750989f.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            243,
+            206,
+            378,
+            260
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            305,
+            206,
+            554,
+            284
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            564,
+            254,
+            894,
+            380
+          ]
+        },
+        {
+          "name": "pile4",
+          "bbox": [
+            130,
+            220,
+            195,
+            251
+          ]
+        },
+        {
+          "name": "pile5",
+          "bbox": [
+            180,
+            219,
+            239,
+            243
+          ]
+        },
+        {
+          "name": "pile6",
+          "bbox": [
+            0,
+            213,
+            58,
+            257
+          ]
+        }
+      ],
+      "task": "Fill the shovel",
+      "calculated": "pile5",
+      "predicted": "pile1"
+    },
+    {
+      "image": "vid5_2_frame_00016_jpg.rf.3687407faeb29877f57df754a2fc9d7b.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            428,
+            217,
+            535,
+            246
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            1,
+            196,
+            185,
+            266
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            153,
+            204,
+            355,
+            260
+          ]
+        },
+        {
+          "name": "pile4",
+          "bbox": [
+            550,
+            199,
+            782,
+            268
+          ]
+        },
+        {
+          "name": "pile5",
+          "bbox": [
+            665,
+            195,
+            893,
+            322
+          ]
+        },
+        {
+          "name": "pile6",
+          "bbox": [
+            0,
+            234,
+            60,
+            268
+          ]
+        }
+      ],
+      "task": "Fill the shovel",
+      "calculated": "pile1",
+      "predicted": "pile3"
+    },
+    {
+      "image": "vid5_2_frame_00028_jpg.rf.ed5d0d8bc6532fd72dd562c7361c300a.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            47,
+            203,
+            392,
+            307
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            288,
+            206,
+            430,
+            248
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            0,
+            247,
+            67,
+            313
+          ]
+        }
+      ],
+      "task": "Start at the rightmost pile",
+      "calculated": null,
+      "predicted": null
+    },
+    {
+      "image": "vid5_2_frame_00028_jpg.rf.ed5d0d8bc6532fd72dd562c7361c300a.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            47,
+            203,
+            392,
+            307
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            288,
+            206,
+            430,
+            248
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            0,
+            247,
+            67,
+            313
+          ]
+        }
+      ],
+      "task": "Clear a remote pile",
+      "calculated": null,
+      "predicted": null
+    },
+    {
+      "image": "vid5_2_frame_00028_jpg.rf.ed5d0d8bc6532fd72dd562c7361c300a.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            47,
+            203,
+            392,
+            307
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            288,
+            206,
+            430,
+            248
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            0,
+            247,
+            67,
+            313
+          ]
+        }
+      ],
+      "task": "Clear a pile as fast as possible",
+      "calculated": null,
+      "predicted": null
+    },
+    {
+      "image": "vid5_2_frame_00028_jpg.rf.ed5d0d8bc6532fd72dd562c7361c300a.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            47,
+            203,
+            392,
+            307
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            288,
+            206,
+            430,
+            248
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            0,
+            247,
+            67,
+            313
+          ]
+        }
+      ],
+      "task": "Start at the leftmost pile",
+      "calculated": null,
+      "predicted": null
+    },
+    {
+      "image": "vid5_2_frame_00028_jpg.rf.ed5d0d8bc6532fd72dd562c7361c300a.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            47,
+            203,
+            392,
+            307
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            288,
+            206,
+            430,
+            248
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            0,
+            247,
+            67,
+            313
+          ]
+        }
+      ],
+      "task": "Process the largest pile",
+      "calculated": null,
+      "predicted": null
+    },
+    {
+      "image": "vid5_2_frame_00028_jpg.rf.ed5d0d8bc6532fd72dd562c7361c300a.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            47,
+            203,
+            392,
+            307
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            288,
+            206,
+            430,
+            248
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            0,
+            247,
+            67,
+            313
+          ]
+        }
+      ],
+      "task": "Fill the shovel",
+      "calculated": null,
+      "predicted": null
+    },
+    {
+      "image": "vid5_2_frame_00031_jpg.rf.fcd578a484494ed50378014094a40cdf.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            277,
+            220,
+            421,
+            254
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            5,
+            200,
+            408,
+            342
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            524,
+            214,
+            623,
+            272
+          ]
+        },
+        {
+          "name": "pile4",
+          "bbox": [
+            576,
+            214,
+            651,
+            248
+          ]
+        },
+        {
+          "name": "pile5",
+          "bbox": [
+            460,
+            222,
+            544,
+            251
+          ]
+        },
+        {
+          "name": "pile6",
+          "bbox": [
+            683,
+            195,
+            889,
+            287
+          ]
+        }
+      ],
+      "task": "Clear a pile as fast as possible",
+      "calculated": "pile5",
+      "predicted": "pile4"
+    },
+    {
+      "image": "vid5_4_frame_00001_jpg.rf.cab7ab9863831f314eba6c902061f6e6.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            0,
+            217,
+            247,
+            315
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            36,
+            193,
+            896,
+            430
+          ]
+        }
+      ],
+      "task": "Start at the rightmost pile",
+      "calculated": null,
+      "predicted": null
+    },
+    {
+      "image": "vid5_4_frame_00001_jpg.rf.cab7ab9863831f314eba6c902061f6e6.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            0,
+            217,
+            247,
+            315
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            36,
+            193,
+            896,
+            430
+          ]
+        }
+      ],
+      "task": "Clear a remote pile",
+      "calculated": null,
+      "predicted": null
+    },
+    {
+      "image": "vid5_4_frame_00001_jpg.rf.cab7ab9863831f314eba6c902061f6e6.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            0,
+            217,
+            247,
+            315
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            36,
+            193,
+            896,
+            430
+          ]
+        }
+      ],
+      "task": "Clear a pile as fast as possible",
+      "calculated": null,
+      "predicted": null
+    },
+    {
+      "image": "vid5_4_frame_00001_jpg.rf.cab7ab9863831f314eba6c902061f6e6.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            0,
+            217,
+            247,
+            315
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            36,
+            193,
+            896,
+            430
+          ]
+        }
+      ],
+      "task": "Start at the leftmost pile",
+      "calculated": null,
+      "predicted": null
+    },
+    {
+      "image": "vid5_4_frame_00001_jpg.rf.cab7ab9863831f314eba6c902061f6e6.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            0,
+            217,
+            247,
+            315
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            36,
+            193,
+            896,
+            430
+          ]
+        }
+      ],
+      "task": "Process the largest pile",
+      "calculated": null,
+      "predicted": null
+    },
+    {
+      "image": "vid5_4_frame_00001_jpg.rf.cab7ab9863831f314eba6c902061f6e6.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            0,
+            217,
+            247,
+            315
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            36,
+            193,
+            896,
+            430
+          ]
+        }
+      ],
+      "task": "Fill the shovel",
+      "calculated": null,
+      "predicted": null
+    },
+    {
+      "image": "vid5_4_frame_00106_jpg.rf.1cb5ca4731163c81fca475a1e52d37e3.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            696,
+            306,
+            896,
+            420
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            173,
+            268,
+            424,
+            356
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            139,
+            231,
+            328,
+            273
+          ]
+        },
+        {
+          "name": "pile4",
+          "bbox": [
+            308,
+            235,
+            432,
+            270
+          ]
+        }
+      ],
+      "task": "Start at the rightmost pile",
+      "calculated": null,
+      "predicted": null
+    },
+    {
+      "image": "vid5_4_frame_00106_jpg.rf.1cb5ca4731163c81fca475a1e52d37e3.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            696,
+            306,
+            896,
+            420
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            173,
+            268,
+            424,
+            356
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            139,
+            231,
+            328,
+            273
+          ]
+        },
+        {
+          "name": "pile4",
+          "bbox": [
+            308,
+            235,
+            432,
+            270
+          ]
+        }
+      ],
+      "task": "Clear a remote pile",
+      "calculated": null,
+      "predicted": null
+    },
+    {
+      "image": "vid5_4_frame_00106_jpg.rf.1cb5ca4731163c81fca475a1e52d37e3.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            696,
+            306,
+            896,
+            420
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            173,
+            268,
+            424,
+            356
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            139,
+            231,
+            328,
+            273
+          ]
+        },
+        {
+          "name": "pile4",
+          "bbox": [
+            308,
+            235,
+            432,
+            270
+          ]
+        }
+      ],
+      "task": "Clear a pile as fast as possible",
+      "calculated": null,
+      "predicted": null
+    },
+    {
+      "image": "vid5_4_frame_00106_jpg.rf.1cb5ca4731163c81fca475a1e52d37e3.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            696,
+            306,
+            896,
+            420
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            173,
+            268,
+            424,
+            356
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            139,
+            231,
+            328,
+            273
+          ]
+        },
+        {
+          "name": "pile4",
+          "bbox": [
+            308,
+            235,
+            432,
+            270
+          ]
+        }
+      ],
+      "task": "Start at the leftmost pile",
+      "calculated": null,
+      "predicted": null
+    },
+    {
+      "image": "vid5_4_frame_00106_jpg.rf.1cb5ca4731163c81fca475a1e52d37e3.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            696,
+            306,
+            896,
+            420
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            173,
+            268,
+            424,
+            356
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            139,
+            231,
+            328,
+            273
+          ]
+        },
+        {
+          "name": "pile4",
+          "bbox": [
+            308,
+            235,
+            432,
+            270
+          ]
+        }
+      ],
+      "task": "Process the largest pile",
+      "calculated": null,
+      "predicted": null
+    },
+    {
+      "image": "vid5_4_frame_00106_jpg.rf.1cb5ca4731163c81fca475a1e52d37e3.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            696,
+            306,
+            896,
+            420
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            173,
+            268,
+            424,
+            356
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            139,
+            231,
+            328,
+            273
+          ]
+        },
+        {
+          "name": "pile4",
+          "bbox": [
+            308,
+            235,
+            432,
+            270
+          ]
+        }
+      ],
+      "task": "Fill the shovel",
+      "calculated": null,
+      "predicted": null
+    },
+    {
+      "image": "vid5_5_frame_00047_jpg.rf.4c12f65665601a0af8b6259236b960f2.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            0,
+            202,
+            894,
+            444
+          ]
+        }
+      ],
+      "task": "Clear a pile as fast as possible",
+      "calculated": "pile1",
+      "predicted": "pile2"
+    },
+    {
+      "image": "vid5_7_frame_00007_jpg.rf.472539de71e2ef22cd04ecdb78f80d49.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "bbox": [
+            637,
+            195,
+            887,
+            255
+          ]
+        },
+        {
+          "name": "pile2",
+          "bbox": [
+            277,
+            203,
+            459,
+            254
+          ]
+        },
+        {
+          "name": "pile3",
+          "bbox": [
+            518,
+            213,
+            588,
+            243
+          ]
+        },
+        {
+          "name": "pile4",
+          "bbox": [
+            567,
+            210,
+            632,
+            241
+          ]
+        },
+        {
+          "name": "pile5",
+          "bbox": [
+            180,
+            219,
+            240,
+            253
+          ]
+        },
+        {
+          "name": "pile6",
+          "bbox": [
+            2,
+            205,
+            190,
+            277
+          ]
+        },
+        {
+          "name": "pile7",
+          "bbox": [
+            719,
+            215,
+            896,
+            317
+          ]
+        }
+      ],
+      "task": "Clear a remote pile",
+      "calculated": "pile7",
+      "predicted": "pile1"
+    }
+  ],
+  "skipped_images": 5
+}

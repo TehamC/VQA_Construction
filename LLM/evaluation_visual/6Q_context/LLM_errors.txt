@@ -1,0 +1,472 @@
+Evaluation Errors:
+
+vid1_frame_100170.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox]
+  Task: Clear a pile as fast as possible
+  Calculated: pile5
+  Predicted: pile4
+
+vid1_frame_100200.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox], pile7:[name, position, area, bbox]
+  Task: Start at the leftmost pile
+  Calculated: pile6
+  Predicted: pile7
+
+vid1_frame_15360.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox]
+  Task: Fill the shovel
+  Calculated: pile1
+  Predicted: pile2
+
+vid1_frame_16830.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox]
+  Task: Clear a pile as fast as possible
+  Calculated: pile1
+  Predicted: pile3
+
+vid1_frame_16830.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox]
+  Task: Process the largest pile
+  Calculated: pile3
+  Predicted: pile1
+
+vid1_frame_16890.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox]
+  Task: Clear a pile as fast as possible
+  Calculated: pile1
+  Predicted: pile3
+
+vid1_frame_16920.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox]
+  Task: Process the largest pile
+  Calculated: pile2
+  Predicted: pile1
+
+vid1_frame_19890.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox]
+  Task: Clear a remote pile
+  Calculated: pile4
+  Predicted: pile5
+
+vid1_frame_22110.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox], pile7:[name, position, area, bbox]
+  Task: Fill the shovel
+  Calculated: pile7
+  Predicted: pile5
+
+vid1_frame_24300.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox]
+  Task: Fill the shovel
+  Calculated: pile2
+  Predicted: pile1
+
+vid1_frame_30870.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox]
+  Task: Clear a pile as fast as possible
+  Calculated: pile3
+  Predicted: pile2
+
+vid1_frame_32370.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox]
+  Task: Fill the shovel
+  Calculated: pile1
+  Predicted: pile6
+
+vid1_frame_33000.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox]
+  Task: Fill the shovel
+  Calculated: pile1
+  Predicted: pile4
+
+vid1_frame_33030.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox]
+  Task: Fill the shovel
+  Calculated: pile2
+  Predicted: pile4
+
+vid1_frame_35370.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox]
+  Task: Process the largest pile
+  Calculated: pile1
+  Predicted: pile4
+
+vid1_frame_35400.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox]
+  Task: Process the largest pile
+  Calculated: pile1
+  Predicted: pile3
+
+vid1_frame_38040.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox], pile7:[name, position, area, bbox], pile8:[name, position, area, bbox]
+  Task: Clear a pile as fast as possible
+  Calculated: pile8
+  Predicted: pile6
+
+vid1_frame_39930.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox]
+  Task: Clear a pile as fast as possible
+  Calculated: pile2
+  Predicted: pile1
+
+vid1_frame_73140.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox]
+  Task: Clear a remote pile
+  Calculated: pile5
+  Predicted: pile2
+
+vid1_frame_78030.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox], pile7:[name, position, area, bbox], pile8:[name, position, area, bbox]
+  Task: Clear a pile as fast as possible
+  Calculated: pile6
+  Predicted: pile5
+
+vid1_frame_7950.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox]
+  Task: Clear a pile as fast as possible
+  Calculated: pile5
+  Predicted: pile3
+
+vid1_frame_8100.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox]
+  Task: Fill the shovel
+  Calculated: pile1
+  Predicted: pile2
+
+vid1_frame_8130.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox]
+  Task: Fill the shovel
+  Calculated: pile1
+  Predicted: pile3
+
+vid1_frame_8610.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox]
+  Task: Clear a pile as fast as possible
+  Calculated: pile3
+  Predicted: pile4
+
+vid1_frame_93000.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox], pile7:[name, position, area, bbox], pile8:[name, position, area, bbox]
+  Task: Clear a pile as fast as possible
+  Calculated: pile8
+  Predicted: pile5
+
+vid1_frame_93000.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox], pile7:[name, position, area, bbox], pile8:[name, position, area, bbox]
+  Task: Fill the shovel
+  Calculated: pile8
+  Predicted: pile4
+
+vid2_frame_10320.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox]
+  Task: Clear a pile as fast as possible
+  Calculated: pile5
+  Predicted: pile3
+
+vid2_frame_11130.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox]
+  Task: Clear a pile as fast as possible
+  Calculated: pile3
+  Predicted: pile4
+
+vid2_frame_11160.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox]
+  Task: Fill the shovel
+  Calculated: pile2
+  Predicted: pile1
+
+vid2_frame_11580.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox]
+  Task: Fill the shovel
+  Calculated: pile2
+  Predicted: pile6
+
+vid2_frame_17550.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox]
+  Task: Fill the shovel
+  Calculated: pile3
+  Predicted: pile4
+
+vid2_frame_17700.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox], pile7:[name, position, area, bbox], pile8:[name, position, area, bbox], pile9:[name, position, area, bbox]
+  Task: Clear a pile as fast as possible
+  Calculated: pile9
+  Predicted: pile2
+
+vid2_frame_17790.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox], pile7:[name, position, area, bbox], pile8:[name, position, area, bbox], pile9:[name, position, area, bbox]
+  Task: Clear a remote pile
+  Calculated: pile6
+  Predicted: pile4
+
+vid2_frame_17790.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox], pile7:[name, position, area, bbox], pile8:[name, position, area, bbox], pile9:[name, position, area, bbox]
+  Task: Clear a pile as fast as possible
+  Calculated: pile9
+  Predicted: pile4
+
+vid2_frame_17790.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox], pile7:[name, position, area, bbox], pile8:[name, position, area, bbox], pile9:[name, position, area, bbox]
+  Task: Fill the shovel
+  Calculated: pile7
+  Predicted: pile5
+
+vid2_frame_20910.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox]
+  Task: Fill the shovel
+  Calculated: pile1
+  Predicted: pile4
+
+vid2_frame_21300.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox]
+  Task: Clear a remote pile
+  Calculated: pile1
+  Predicted: pile3
+
+vid2_frame_21300.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox]
+  Task: Fill the shovel
+  Calculated: pile2
+  Predicted: pile5
+
+vid2_frame_22530.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox]
+  Task: Clear a pile as fast as possible
+  Calculated: pile5
+  Predicted: pile3
+
+vid2_frame_22560.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox]
+  Task: Clear a pile as fast as possible
+  Calculated: pile5
+  Predicted: pile4
+
+vid2_frame_31080.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox]
+  Task: Fill the shovel
+  Calculated: pile2
+  Predicted: pile1
+
+vid2_frame_31710.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox]
+  Task: Clear a pile as fast as possible
+  Calculated: pile2
+  Predicted: pile3
+
+vid2_frame_46800.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox]
+  Task: Clear a pile as fast as possible
+  Calculated: pile3
+  Predicted: pile6
+
+vid4_frame_12540.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox], pile7:[name, position, area, bbox]
+  Task: Fill the shovel
+  Calculated: pile2
+  Predicted: pile4
+
+vid4_frame_13110.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox]
+  Task: Fill the shovel
+  Calculated: pile6
+  Predicted: pile3
+
+vid4_frame_152190.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox]
+  Task: Process the largest pile
+  Calculated: pile2
+  Predicted: pile1
+
+vid4_frame_155640.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox]
+  Task: Process the largest pile
+  Calculated: pile3
+  Predicted: pile4
+
+vid4_frame_20460.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox]
+  Task: Clear a remote pile
+  Calculated: pile2
+  Predicted: pile1
+
+vid4_frame_20460.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox]
+  Task: Fill the shovel
+  Calculated: pile1
+  Predicted: pile2
+
+vid4_frame_22920.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox], pile7:[name, position, area, bbox]
+  Task: Start at the rightmost pile
+  Calculated: pile7
+  Predicted: pile4
+
+vid4_frame_22920.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox], pile7:[name, position, area, bbox]
+  Task: Clear a remote pile
+  Calculated: pile7
+  Predicted: pile4
+
+vid4_frame_22980.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox], pile7:[name, position, area, bbox]
+  Task: Clear a remote pile
+  Calculated: pile6
+  Predicted: pile4
+
+vid4_frame_22980.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox], pile7:[name, position, area, bbox]
+  Task: Fill the shovel
+  Calculated: pile5
+  Predicted: pile1
+
+vid4_frame_4320.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox]
+  Task: Clear a pile as fast as possible
+  Calculated: pile5
+  Predicted: pile2
+
+vid4_frame_5130.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox]
+  Task: Clear a remote pile
+  Calculated: pile5
+  Predicted: pile2
+
+vid4_frame_5130.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox]
+  Task: Fill the shovel
+  Calculated: pile4
+  Predicted: pile1
+
+vid4_frame_66030.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox]
+  Task: Clear a pile as fast as possible
+  Calculated: pile5
+  Predicted: pile3
+
+vid4_frame_66090.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox]
+  Task: Fill the shovel
+  Calculated: pile1
+  Predicted: pile2
+
+vid4_frame_66120.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox]
+  Task: Fill the shovel
+  Calculated: pile1
+  Predicted: pile2
+
+vid4_frame_66630.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox], pile7:[name, position, area, bbox]
+  Task: Process the largest pile
+  Calculated: pile7
+  Predicted: pile5
+
+vid4_frame_66630.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox], pile7:[name, position, area, bbox]
+  Task: Fill the shovel
+  Calculated: pile1
+  Predicted: pile6
+
+vid4_frame_7920.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox]
+  Task: Clear a remote pile
+  Calculated: pile6
+  Predicted: pile4
+
+vid4_frame_7920.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox]
+  Task: Fill the shovel
+  Calculated: pile3
+  Predicted: pile5
+
+vid4_frame_8280.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox]
+  Task: Clear a pile as fast as possible
+  Calculated: pile5
+  Predicted: pile3
+
+vid4_frame_8430.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox]
+  Task: Process the largest pile
+  Calculated: pile4
+  Predicted: pile3
+
+vid4_frame_92490.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox], pile6:[name, position, area, bbox]
+  Task: Clear a remote pile
+  Calculated: pile5
+  Predicted: pile4
+
+vid4_frame_92580.jpg:
+  Anchor: N/A
+  Piles: pile1:[name, position, area, bbox], pile2:[name, position, area, bbox], pile3:[name, position, area, bbox], pile4:[name, position, area, bbox], pile5:[name, position, area, bbox]
+  Task: Clear a pile as fast as possible
+  Calculated: pile4
+  Predicted: pile1
+
+Skipped images with 0 detected piles: 32

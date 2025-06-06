@@ -1,0 +1,6101 @@
+{
+  "results": [
+    {
+      "image": "vid5_1_frame_00008_jpg.rf.c5ee440fcd4b4c95ee37a036de962617.jpg",
+      "piles": [],
+      "anchor": {
+        "position": [
+          451.5,
+          471.5
+        ],
+        "bbox": [
+          424,
+          440,
+          479,
+          503
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.03968524932861328,
+        "llm_inference": 0,
+        "llm_pre_post_processing": 0
+      }
+    },
+    {
+      "image": "vid5_1_frame_00011_jpg.rf.6c980bc8cebf84590cd23e85750618c9.jpg",
+      "piles": [],
+      "anchor": {
+        "position": [
+          453.0,
+          477.0
+        ],
+        "bbox": [
+          426,
+          445,
+          480,
+          509
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.015487432479858398,
+        "llm_inference": 0,
+        "llm_pre_post_processing": 0
+      }
+    },
+    {
+      "image": "vid5_1_frame_00014_jpg.rf.28f33a6440cbc2981359c72834b31dfa.jpg",
+      "piles": [],
+      "anchor": {
+        "position": [
+          461.0,
+          474.0
+        ],
+        "bbox": [
+          433,
+          442,
+          489,
+          506
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.01517343521118164,
+        "llm_inference": 0,
+        "llm_pre_post_processing": 0
+      }
+    },
+    {
+      "image": "vid5_1_frame_00017_jpg.rf.832565d9cc5d1a872a709f093f0a3ad3.jpg",
+      "piles": [],
+      "anchor": {
+        "position": [
+          463.5,
+          476.0
+        ],
+        "bbox": [
+          436,
+          444,
+          491,
+          508
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.015413761138916016,
+        "llm_inference": 0,
+        "llm_pre_post_processing": 0
+      }
+    },
+    {
+      "image": "vid5_1_frame_00020_jpg.rf.12100c122ddc43aa5c20f3dc34f2ac1b.jpg",
+      "piles": [],
+      "anchor": {
+        "position": [
+          465.0,
+          472.0
+        ],
+        "bbox": [
+          438,
+          440,
+          492,
+          504
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.015077829360961914,
+        "llm_inference": 0,
+        "llm_pre_post_processing": 0
+      }
+    },
+    {
+      "image": "vid5_1_frame_00038_jpg.rf.322442a67937935a7f5e8cc3ece8b36f.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            418.0,
+            274.5
+          ],
+          "area": 4662,
+          "bbox": [
+            355,
+            256,
+            481,
+            293
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            315.0,
+            279.5
+          ],
+          "area": 3150,
+          "bbox": [
+            270,
+            262,
+            360,
+            297
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            597.0,
+            260.0
+          ],
+          "area": 15360,
+          "bbox": [
+            469,
+            230,
+            725,
+            290
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          472.5,
+          478.0
+        ],
+        "bbox": [
+          444,
+          446,
+          501,
+          510
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to pile3[597.0, 260.0] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile3",
+          "calculated": "pile2",
+          "llm_response": "drive to the farthest pile: pile3[597.0, 260.0] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the smallest pile: pile2[315.0, 279.5] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to pile2[315.0, 279.5] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to the largest pile: pile3[597.0, 260.0] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the nearest pile: pile1[418.0, 274.5] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.029192686080932617,
+        "llm_inference": 7.095336437225342,
+        "llm_pre_post_processing": 2.4080276489257812e-05
+      }
+    },
+    {
+      "image": "vid5_1_frame_00041_jpg.rf.1e5ea18402d5a710f0c2fcdfdd8386e1.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            631.0,
+            258.5
+          ],
+          "area": 24566,
+          "bbox": [
+            458,
+            223,
+            804,
+            294
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            416.0,
+            276.5
+          ],
+          "area": 5934,
+          "bbox": [
+            347,
+            255,
+            485,
+            298
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            63.0,
+            267.0
+          ],
+          "area": 3720,
+          "bbox": [
+            1,
+            252,
+            125,
+            282
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          467.5,
+          480.0
+        ],
+        "bbox": [
+          439,
+          449,
+          496,
+          511
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to pile1[631.0, 258.5] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to the farthest pile: pile3[63.0, 267.0] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to the smallest pile: pile3[63.0, 267.0] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to pile3[63.0, 267.0] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the largest pile: pile1[631.0, 258.5] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the nearest pile: pile2[416.0, 276.5] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.030201196670532227,
+        "llm_inference": 6.21174430847168,
+        "llm_pre_post_processing": 1.5974044799804688e-05
+      }
+    },
+    {
+      "image": "vid5_1_frame_00044_jpg.rf.11a60b656b064bc3f5510afb3e236db3.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            674.0,
+            254.0
+          ],
+          "area": 34112,
+          "bbox": [
+            466,
+            213,
+            882,
+            295
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            417.0,
+            266.5
+          ],
+          "area": 5698,
+          "bbox": [
+            340,
+            248,
+            494,
+            285
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            278.0,
+            276.5
+          ],
+          "area": 4756,
+          "bbox": [
+            220,
+            256,
+            336,
+            297
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            38.0,
+            262.5
+          ],
+          "area": 2508,
+          "bbox": [
+            0,
+            246,
+            76,
+            279
+          ]
+        },
+        {
+          "name": "pile5",
+          "position": [
+            396.0,
+            292.5
+          ],
+          "area": 1320,
+          "bbox": [
+            352,
+            285,
+            440,
+            300
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          467.0,
+          486.0
+        ],
+        "bbox": [
+          439,
+          454,
+          495,
+          518
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to pile1[674.0, 254.0] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile4",
+          "calculated": "pile4",
+          "llm_response": "drive to the farthest pile: pile4[38.0, 262.5] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile5",
+          "calculated": "pile5",
+          "llm_response": "drive to the smallest pile: pile5[396.0, 292.5] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile4",
+          "calculated": "pile4",
+          "llm_response": "drive to pile4[38.0, 262.5] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the largest pile: pile1[674.0, 254.0] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile5",
+          "calculated": "pile5",
+          "llm_response": "drive to the nearest pile: pile5[396.0, 292.5] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.032738447189331055,
+        "llm_inference": 6.095549821853638,
+        "llm_pre_post_processing": 1.6450881958007812e-05
+      }
+    },
+    {
+      "image": "vid5_1_frame_00047_jpg.rf.a573e611739a0b7a18bda80fd31bf91c.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            416.5,
+            264.5
+          ],
+          "area": 7439,
+          "bbox": [
+            330,
+            243,
+            503,
+            286
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            249.5,
+            277.0
+          ],
+          "area": 6762,
+          "bbox": [
+            176,
+            254,
+            323,
+            300
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            677.0,
+            248.0
+          ],
+          "area": 46428,
+          "bbox": [
+            458,
+            195,
+            896,
+            301
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            390.0,
+            295.0
+          ],
+          "area": 2120,
+          "bbox": [
+            337,
+            285,
+            443,
+            305
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          448.5,
+          483.0
+        ],
+        "bbox": [
+          421,
+          452,
+          476,
+          514
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to pile3[677.0, 248.0] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to the farthest pile: pile3[677.0, 248.0] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile4",
+          "calculated": "pile4",
+          "llm_response": "drive to the smallest pile: pile4[390.0, 295.0] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to pile2[249.5, 277.0] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to the largest pile: pile3[677.0, 248.0] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile4",
+          "calculated": "pile4",
+          "llm_response": "drive to the nearest pile: pile4[390.0, 295.0] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.029408931732177734,
+        "llm_inference": 5.9759721755981445,
+        "llm_pre_post_processing": 1.8358230590820312e-05
+      }
+    },
+    {
+      "image": "vid5_1_frame_00050_jpg.rf.c9b159e4efedc53eb33bef84febe845f.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            709.0,
+            255.0
+          ],
+          "area": 41064,
+          "bbox": [
+            532,
+            197,
+            886,
+            313
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            257.0,
+            267.0
+          ],
+          "area": 7904,
+          "bbox": [
+            181,
+            241,
+            333,
+            293
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            555.5,
+            285.5
+          ],
+          "area": 5253,
+          "bbox": [
+            504,
+            260,
+            607,
+            311
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            163.0,
+            267.0
+          ],
+          "area": 1924,
+          "bbox": [
+            126,
+            254,
+            200,
+            280
+          ]
+        },
+        {
+          "name": "pile5",
+          "position": [
+            434.5,
+            268.0
+          ],
+          "area": 2134,
+          "bbox": [
+            386,
+            257,
+            483,
+            279
+          ]
+        },
+        {
+          "name": "pile6",
+          "position": [
+            193.5,
+            272.0
+          ],
+          "area": 1870,
+          "bbox": [
+            166,
+            255,
+            221,
+            289
+          ]
+        },
+        {
+          "name": "pile7",
+          "position": [
+            422.0,
+            294.0
+          ],
+          "area": 3808,
+          "bbox": [
+            354,
+            280,
+            490,
+            308
+          ]
+        },
+        {
+          "name": "pile8",
+          "position": [
+            458.0,
+            251.0
+          ],
+          "area": 9384,
+          "bbox": [
+            356,
+            228,
+            560,
+            274
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          416.0,
+          479.0
+        ],
+        "bbox": [
+          386,
+          447,
+          446,
+          511
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to pile1[709.0, 255.0] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the farthest pile: pile1[709.0, 255.0] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile4",
+          "calculated": "pile6",
+          "llm_response": "drive to the smallest pile: pile4[163.0, 267.0] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile4",
+          "calculated": "pile4",
+          "llm_response": "drive to pile4[163.0, 267.0] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the largest pile: pile1[709.0, 255.0] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile7",
+          "calculated": "pile7",
+          "llm_response": "drive to the nearest pile: pile7[422.0, 294.0] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.03853344917297363,
+        "llm_inference": 5.924013137817383,
+        "llm_pre_post_processing": 2.1696090698242188e-05
+      }
+    },
+    {
+      "image": "vid5_1_frame_00053_jpg.rf.377025916955c2dd089c44ee7d52d3ad.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            543.5,
+            237.0
+          ],
+          "area": 12712,
+          "bbox": [
+            430,
+            209,
+            657,
+            265
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            211.5,
+            244.0
+          ],
+          "area": 2470,
+          "bbox": [
+            164,
+            231,
+            259,
+            257
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            761.0,
+            275.0
+          ],
+          "area": 44376,
+          "bbox": [
+            632,
+            189,
+            890,
+            361
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            307.5,
+            250.0
+          ],
+          "area": 11966,
+          "bbox": [
+            211,
+            219,
+            404,
+            281
+          ]
+        },
+        {
+          "name": "pile5",
+          "position": [
+            500.5,
+            291.0
+          ],
+          "area": 8326,
+          "bbox": [
+            410,
+            268,
+            591,
+            314
+          ]
+        },
+        {
+          "name": "pile6",
+          "position": [
+            143.5,
+            244.5
+          ],
+          "area": 611,
+          "bbox": [
+            120,
+            238,
+            167,
+            251
+          ]
+        },
+        {
+          "name": "pile7",
+          "position": [
+            39.5,
+            226.5
+          ],
+          "area": 3157,
+          "bbox": [
+            1,
+            206,
+            78,
+            247
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          404.5,
+          480.5
+        ],
+        "bbox": [
+          375,
+          448,
+          434,
+          513
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to pile3[761.0, 275.0] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile7",
+          "calculated": "pile7",
+          "llm_response": "drive to the farthest pile: pile7[39.5, 226.5] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile6",
+          "calculated": "pile6",
+          "llm_response": "drive to the smallest pile: pile6[143.5, 244.5] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile7",
+          "calculated": "pile7",
+          "llm_response": "drive to pile7[39.5, 226.5] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to the largest pile: pile3[761.0, 275.0] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile5",
+          "calculated": "pile5",
+          "llm_response": "drive to the nearest pile: pile5[500.5, 291.0] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.025588512420654297,
+        "llm_inference": 5.831910133361816,
+        "llm_pre_post_processing": 1.7642974853515625e-05
+      }
+    },
+    {
+      "image": "vid5_1_frame_00056_jpg.rf.85510081b0cad31aea1786d4d878bbba.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            628.5,
+            228.0
+          ],
+          "area": 19008,
+          "bbox": [
+            480,
+            196,
+            777,
+            260
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            87.5,
+            242.0
+          ],
+          "area": 14706,
+          "bbox": [
+            2,
+            199,
+            173,
+            285
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            349.5,
+            238.5
+          ],
+          "area": 17479,
+          "bbox": [
+            236,
+            200,
+            463,
+            277
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            254.0,
+            231.5
+          ],
+          "area": 2350,
+          "bbox": [
+            207,
+            219,
+            301,
+            244
+          ]
+        },
+        {
+          "name": "pile5",
+          "position": [
+            652.5,
+            311.0
+          ],
+          "area": 33500,
+          "bbox": [
+            485,
+            261,
+            820,
+            361
+          ]
+        },
+        {
+          "name": "pile6",
+          "position": [
+            173.0,
+            233.5
+          ],
+          "area": 1066,
+          "bbox": [
+            132,
+            227,
+            214,
+            240
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          383.0,
+          482.0
+        ],
+        "bbox": [
+          354,
+          450,
+          412,
+          514
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile5",
+          "calculated": "pile5",
+          "llm_response": "drive to pile5[652.5, 311.0] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile1",
+          "calculated": "pile2",
+          "llm_response": "drive to the farthest pile: pile1[628.5, 228.0] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile6",
+          "calculated": "pile6",
+          "llm_response": "drive to the smallest pile: pile6[173.0, 233.5] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to pile2[87.5, 242.0] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile5",
+          "calculated": "pile5",
+          "llm_response": "drive to the largest pile: pile5[652.5, 311.0] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to the nearest pile: pile3[349.5, 238.5] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.02926158905029297,
+        "llm_inference": 5.856694936752319,
+        "llm_pre_post_processing": 1.7404556274414062e-05
+      }
+    },
+    {
+      "image": "vid5_1_frame_00059_jpg.rf.670e86e6e76c27a865c556f6cad58d60.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            402.5,
+            242.5
+          ],
+          "area": 24459,
+          "bbox": [
+            271,
+            196,
+            534,
+            289
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            716.5,
+            234.0
+          ],
+          "area": 25382,
+          "bbox": [
+            545,
+            197,
+            888,
+            271
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            92.5,
+            246.0
+          ],
+          "area": 17376,
+          "bbox": [
+            2,
+            198,
+            183,
+            294
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            295.5,
+            231.0
+          ],
+          "area": 2136,
+          "bbox": [
+            251,
+            219,
+            340,
+            243
+          ]
+        },
+        {
+          "name": "pile5",
+          "position": [
+            663.5,
+            249.5
+          ],
+          "area": 4025,
+          "bbox": [
+            606,
+            232,
+            721,
+            267
+          ]
+        },
+        {
+          "name": "pile6",
+          "position": [
+            598.0,
+            237.0
+          ],
+          "area": 3816,
+          "bbox": [
+            545,
+            219,
+            651,
+            255
+          ]
+        },
+        {
+          "name": "pile7",
+          "position": [
+            314.0,
+            245.5
+          ],
+          "area": 6222,
+          "bbox": [
+            263,
+            215,
+            365,
+            276
+          ]
+        },
+        {
+          "name": "pile8",
+          "position": [
+            750.5,
+            363.0
+          ],
+          "area": 40186,
+          "bbox": [
+            609,
+            292,
+            892,
+            434
+          ]
+        },
+        {
+          "name": "pile9",
+          "position": [
+            233.5,
+            232.0
+          ],
+          "area": 630,
+          "bbox": [
+            211,
+            225,
+            256,
+            239
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          362.5,
+          474.5
+        ],
+        "bbox": [
+          332,
+          441,
+          393,
+          508
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile8",
+          "calculated": "pile8",
+          "llm_response": "drive to pile8[750.5, 363.0] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the farthest pile: pile2[716.5, 234.0] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile4",
+          "calculated": "pile9",
+          "llm_response": "drive to the smallest pile: pile4[295.5, 231.0] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to pile3[92.5, 246.0] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile8",
+          "calculated": "pile8",
+          "llm_response": "drive to the largest pile: pile8[750.5, 363.0] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile4",
+          "calculated": "pile7",
+          "llm_response": "drive to the nearest pile: pile4[295.5, 231.0] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.03063368797302246,
+        "llm_inference": 5.8742594718933105,
+        "llm_pre_post_processing": 1.7881393432617188e-05
+      }
+    },
+    {
+      "image": "vid5_1_frame_00062_jpg.rf.1309ca261162717c42b6b70da28459df.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            828.5,
+            254.5
+          ],
+          "area": 6885,
+          "bbox": [
+            761,
+            229,
+            896,
+            280
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            352.5,
+            234.5
+          ],
+          "area": 2835,
+          "bbox": [
+            300,
+            221,
+            405,
+            248
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            51.0,
+            290.0
+          ],
+          "area": 7252,
+          "bbox": [
+            2,
+            253,
+            100,
+            327
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            518.5,
+            267.0
+          ],
+          "area": 56168,
+          "bbox": [
+            312,
+            199,
+            725,
+            335
+          ]
+        },
+        {
+          "name": "pile5",
+          "position": [
+            103.5,
+            271.5
+          ],
+          "area": 30545,
+          "bbox": [
+            1,
+            197,
+            206,
+            346
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          355.5,
+          464.0
+        ],
+        "bbox": [
+          321,
+          431,
+          390,
+          497
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to pile1[828.5, 254.5] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the farthest pile: pile1[828.5, 254.5] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the smallest pile: pile2[352.5, 234.5] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to pile3[51.0, 290.0] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile4",
+          "calculated": "pile4",
+          "llm_response": "drive to the largest pile: pile4[518.5, 267.0] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the nearest pile: pile2[352.5, 234.5] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.030086278915405273,
+        "llm_inference": 5.924383878707886,
+        "llm_pre_post_processing": 1.9073486328125e-05
+      }
+    },
+    {
+      "image": "vid5_1_frame_00065_jpg.rf.5dc1405d718a6a235c5c4cf04448b78e.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            637.5,
+            391.5
+          ],
+          "area": 204215,
+          "bbox": [
+            379,
+            194,
+            896,
+            589
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            120.0,
+            323.5
+          ],
+          "area": 61680,
+          "bbox": [
+            0,
+            195,
+            240,
+            452
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            407.5,
+            236.0
+          ],
+          "area": 4192,
+          "bbox": [
+            342,
+            220,
+            473,
+            252
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            255.5,
+            243.5
+          ],
+          "area": 297,
+          "bbox": [
+            239,
+            239,
+            272,
+            248
+          ]
+        },
+        {
+          "name": "pile5",
+          "position": [
+            340.0,
+            237.5
+          ],
+          "area": 720,
+          "bbox": [
+            316,
+            230,
+            364,
+            245
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          354.0,
+          470.0
+        ],
+        "bbox": [
+          324,
+          437,
+          384,
+          503
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to pile1[637.5, 391.5] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the farthest pile: pile1[637.5, 391.5] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile4",
+          "calculated": "pile4",
+          "llm_response": "drive to the smallest pile: pile4[255.5, 243.5] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to pile2[120.0, 323.5] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the largest pile: pile1[637.5, 391.5] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile5",
+          "calculated": "pile5",
+          "llm_response": "drive to the nearest pile: pile5[340.0, 237.5] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.027779102325439453,
+        "llm_inference": 5.899971008300781,
+        "llm_pre_post_processing": 1.6927719116210938e-05
+      }
+    },
+    {
+      "image": "vid5_1_frame_00068_jpg.rf.89b1102631be1f4809b74befc12a0476.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            128.0,
+            353.5
+          ],
+          "area": 80128,
+          "bbox": [
+            0,
+            197,
+            256,
+            510
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            459.0,
+            237.5
+          ],
+          "area": 4340,
+          "bbox": [
+            397,
+            220,
+            521,
+            255
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            309.5,
+            242.0
+          ],
+          "area": 372,
+          "bbox": [
+            294,
+            236,
+            325,
+            248
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            384.5,
+            239.0
+          ],
+          "area": 784,
+          "bbox": [
+            360,
+            231,
+            409,
+            247
+          ]
+        },
+        {
+          "name": "pile5",
+          "position": [
+            653.5,
+            448.5
+          ],
+          "area": 245895,
+          "bbox": [
+            411,
+            195,
+            896,
+            702
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          364.5,
+          477.0
+        ],
+        "bbox": [
+          335,
+          444,
+          394,
+          510
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile5",
+          "calculated": "pile5",
+          "llm_response": "drive to pile5[653.5, 448.5] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile5",
+          "calculated": "pile5",
+          "llm_response": "drive to the farthest pile: pile5[653.5, 448.5] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to the smallest pile: pile3[309.5, 242.0] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to pile1[128.0, 353.5] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile5",
+          "calculated": "pile5",
+          "llm_response": "drive to the largest pile: pile5[653.5, 448.5] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile4",
+          "calculated": "pile4",
+          "llm_response": "drive to the nearest pile: pile4[384.5, 239.0] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.023571014404296875,
+        "llm_inference": 5.881990671157837,
+        "llm_pre_post_processing": 1.6450881958007812e-05
+      }
+    },
+    {
+      "image": "vid5_1_frame_00071_jpg.rf.7cb568f5ec0022725d6503ae31e8cf2b.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            742.5,
+            447.5
+          ],
+          "area": 105141,
+          "bbox": [
+            591,
+            274,
+            894,
+            621
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            707.0,
+            253.0
+          ],
+          "area": 36600,
+          "bbox": [
+            524,
+            203,
+            890,
+            303
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            333.5,
+            243.5
+          ],
+          "area": 243,
+          "bbox": [
+            320,
+            239,
+            347,
+            248
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            146.0,
+            377.5
+          ],
+          "area": 98404,
+          "bbox": [
+            0,
+            209,
+            292,
+            546
+          ]
+        },
+        {
+          "name": "pile5",
+          "position": [
+            545.0,
+            239.0
+          ],
+          "area": 5256,
+          "bbox": [
+            472,
+            221,
+            618,
+            257
+          ]
+        },
+        {
+          "name": "pile6",
+          "position": [
+            381.5,
+            243.0
+          ],
+          "area": 250,
+          "bbox": [
+            369,
+            238,
+            394,
+            248
+          ]
+        },
+        {
+          "name": "pile7",
+          "position": [
+            103.0,
+            243.0
+          ],
+          "area": 14112,
+          "bbox": [
+            5,
+            207,
+            201,
+            279
+          ]
+        },
+        {
+          "name": "pile8",
+          "position": [
+            358.5,
+            245.0
+          ],
+          "area": 152,
+          "bbox": [
+            349,
+            241,
+            368,
+            249
+          ]
+        },
+        {
+          "name": "pile9",
+          "position": [
+            582.0,
+            258.0
+          ],
+          "area": 4136,
+          "bbox": [
+            535,
+            236,
+            629,
+            280
+          ]
+        },
+        {
+          "name": "pile10",
+          "position": [
+            450.5,
+            239.5
+          ],
+          "area": 1105,
+          "bbox": [
+            418,
+            231,
+            483,
+            248
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          412.5,
+          470.5
+        ],
+        "bbox": [
+          384,
+          438,
+          441,
+          503
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to pile1[742.5, 447.5] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile7",
+          "calculated": "pile7",
+          "llm_response": "drive to the farthest pile: pile7[103.0, 243.0] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile6",
+          "calculated": "pile8",
+          "llm_response": "drive to the smallest pile: pile6[381.5, 243.0] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile7",
+          "calculated": "pile7",
+          "llm_response": "drive to pile7[103.0, 243.0] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the largest pile: pile1[742.5, 447.5] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile6",
+          "calculated": "pile6",
+          "llm_response": "drive to the nearest pile: pile6[381.5, 243.0] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.0324859619140625,
+        "llm_inference": 6.012288570404053,
+        "llm_pre_post_processing": 2.6464462280273438e-05
+      }
+    },
+    {
+      "image": "vid5_1_frame_00074_jpg.rf.b4ef0c6e450a990c92601f3ceea4a62d.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            588.0,
+            239.5
+          ],
+          "area": 7134,
+          "bbox": [
+            501,
+            219,
+            675,
+            260
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            743.0,
+            264.5
+          ],
+          "area": 31518,
+          "bbox": [
+            590,
+            213,
+            896,
+            316
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            90.0,
+            253.5
+          ],
+          "area": 14608,
+          "bbox": [
+            2,
+            212,
+            178,
+            295
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            484.0,
+            239.0
+          ],
+          "area": 1080,
+          "bbox": [
+            454,
+            230,
+            514,
+            248
+          ]
+        },
+        {
+          "name": "pile5",
+          "position": [
+            348.5,
+            248.5
+          ],
+          "area": 279,
+          "bbox": [
+            333,
+            244,
+            364,
+            253
+          ]
+        },
+        {
+          "name": "pile6",
+          "position": [
+            400.0,
+            244.5
+          ],
+          "area": 338,
+          "bbox": [
+            387,
+            238,
+            413,
+            251
+          ]
+        },
+        {
+          "name": "pile7",
+          "position": [
+            378.5,
+            246.0
+          ],
+          "area": 420,
+          "bbox": [
+            361,
+            240,
+            396,
+            252
+          ]
+        },
+        {
+          "name": "pile8",
+          "position": [
+            450.5,
+            241.0
+          ],
+          "area": 492,
+          "bbox": [
+            430,
+            235,
+            471,
+            247
+          ]
+        },
+        {
+          "name": "pile9",
+          "position": [
+            101.0,
+            431.0
+          ],
+          "area": 40800,
+          "bbox": [
+            1,
+            329,
+            201,
+            533
+          ]
+        },
+        {
+          "name": "pile10",
+          "position": [
+            657.5,
+            265.5
+          ],
+          "area": 6943,
+          "bbox": [
+            592,
+            239,
+            723,
+            292
+          ]
+        },
+        {
+          "name": "pile11",
+          "position": [
+            798.0,
+            226.5
+          ],
+          "area": 6724,
+          "bbox": [
+            716,
+            206,
+            880,
+            247
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          422.0,
+          468.0
+        ],
+        "bbox": [
+          394,
+          436,
+          450,
+          500
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile11",
+          "calculated": "pile11",
+          "llm_response": "drive to pile11[798.0, 226.5] and initiate digging.**\nTask: Start at pile11[798.0, 226.5] and initiate digging.**\nTask: Start at pile11[798.0, 226.5] and initiate digging.**\nTask: Start"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile11",
+          "calculated": "pile11",
+          "llm_response": "drive to the farthest pile: pile11[798.0, 226.5] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile5",
+          "calculated": "pile5",
+          "llm_response": "drive to the smallest pile: pile5[348.5, 248.5] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to pile3[90.0, 253.5] and initiate digging.**\nTask: Start at pile3[90.0, 253.5] and initiate digging.**\nTask: Start at pile3[90.0, 253.5] and initiate digging.**\nTask: Start"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile9",
+          "calculated": "pile9",
+          "llm_response": "drive to the largest pile: pile9[101.0, 431.0] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile4",
+          "calculated": "pile6",
+          "llm_response": "drive to the nearest pile: pile4[484.0, 239.0] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.03181862831115723,
+        "llm_inference": 9.40195369720459,
+        "llm_pre_post_processing": 2.6226043701171875e-05
+      }
+    },
+    {
+      "image": "vid5_1_frame_00077_jpg.rf.3a42e63adc412e0ada289bffa48ca590.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            796.5,
+            293.0
+          ],
+          "area": 20280,
+          "bbox": [
+            699,
+            241,
+            894,
+            345
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            221.5,
+            253.0
+          ],
+          "area": 2886,
+          "bbox": [
+            166,
+            240,
+            277,
+            266
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            79.0,
+            252.0
+          ],
+          "area": 12324,
+          "bbox": [
+            0,
+            213,
+            158,
+            291
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            362.5,
+            249.0
+          ],
+          "area": 420,
+          "bbox": [
+            345,
+            243,
+            380,
+            255
+          ]
+        },
+        {
+          "name": "pile5",
+          "position": [
+            636.5,
+            240.0
+          ],
+          "area": 9840,
+          "bbox": [
+            534,
+            216,
+            739,
+            264
+          ]
+        },
+        {
+          "name": "pile6",
+          "position": [
+            796.5,
+            241.0
+          ],
+          "area": 11968,
+          "bbox": [
+            703,
+            209,
+            890,
+            273
+          ]
+        },
+        {
+          "name": "pile7",
+          "position": [
+            544.5,
+            236.0
+          ],
+          "area": 2324,
+          "bbox": [
+            503,
+            222,
+            586,
+            250
+          ]
+        },
+        {
+          "name": "pile8",
+          "position": [
+            391.5,
+            250.5
+          ],
+          "area": 407,
+          "bbox": [
+            373,
+            245,
+            410,
+            256
+          ]
+        },
+        {
+          "name": "pile9",
+          "position": [
+            469.0,
+            241.5
+          ],
+          "area": 728,
+          "bbox": [
+            441,
+            235,
+            497,
+            248
+          ]
+        },
+        {
+          "name": "pile10",
+          "position": [
+            511.0,
+            241.0
+          ],
+          "area": 672,
+          "bbox": [
+            490,
+            233,
+            532,
+            249
+          ]
+        },
+        {
+          "name": "pile11",
+          "position": [
+            419.0,
+            250.0
+          ],
+          "area": 480,
+          "bbox": [
+            404,
+            242,
+            434,
+            258
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          422.5,
+          471.5
+        ],
+        "bbox": [
+          394,
+          440,
+          451,
+          503
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile6",
+          "calculated": "pile1",
+          "llm_response": "drive to pile6[796.5, 241.0] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile6",
+          "calculated": "pile6",
+          "llm_response": "drive to the farthest pile: pile6[796.5, 241.0] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile8",
+          "calculated": "pile8",
+          "llm_response": "drive to the smallest pile: pile8[391.5, 250.5] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to pile3[79.0, 252.0] and initiate digging\nTask: Start at pile3[79.0, 252.0] and initiate digging\nTask: Start at pile3[79.0, 252.0] and initiate digging\nTask: Start at pile3"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the largest pile: pile1[796.5, 293.0] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile11",
+          "calculated": "pile11",
+          "llm_response": "drive to the nearest pile: pile11[419.0, 250.0] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.031709909439086914,
+        "llm_inference": 7.5422210693359375,
+        "llm_pre_post_processing": 2.193450927734375e-05
+      }
+    },
+    {
+      "image": "vid5_1_frame_00080_jpg.rf.455ac8b000f9fe8a618adc1b8937bc86.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            65.0,
+            261.5
+          ],
+          "area": 8970,
+          "bbox": [
+            0,
+            227,
+            130,
+            296
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            107.5,
+            256.0
+          ],
+          "area": 5406,
+          "bbox": [
+            28,
+            239,
+            187,
+            273
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            238.0,
+            244.5
+          ],
+          "area": 4292,
+          "bbox": [
+            164,
+            230,
+            312,
+            259
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            734.0,
+            244.0
+          ],
+          "area": 20736,
+          "bbox": [
+            572,
+            212,
+            896,
+            276
+          ]
+        },
+        {
+          "name": "pile5",
+          "position": [
+            382.0,
+            250.5
+          ],
+          "area": 494,
+          "bbox": [
+            363,
+            244,
+            401,
+            257
+          ]
+        },
+        {
+          "name": "pile6",
+          "position": [
+            414.5,
+            252.0
+          ],
+          "area": 492,
+          "bbox": [
+            394,
+            246,
+            435,
+            258
+          ]
+        },
+        {
+          "name": "pile7",
+          "position": [
+            440.5,
+            246.0
+          ],
+          "area": 666,
+          "bbox": [
+            422,
+            237,
+            459,
+            255
+          ]
+        },
+        {
+          "name": "pile8",
+          "position": [
+            540.0,
+            238.5
+          ],
+          "area": 4374,
+          "bbox": [
+            459,
+            225,
+            621,
+            252
+          ]
+        },
+        {
+          "name": "pile9",
+          "position": [
+            483.0,
+            242.5
+          ],
+          "area": 572,
+          "bbox": [
+            461,
+            236,
+            505,
+            249
+          ]
+        },
+        {
+          "name": "pile10",
+          "position": [
+            279.0,
+            228.5
+          ],
+          "area": 4602,
+          "bbox": [
+            220,
+            209,
+            338,
+            248
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          419.0,
+          473.0
+        ],
+        "bbox": [
+          391,
+          441,
+          447,
+          505
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile4",
+          "calculated": "pile4",
+          "llm_response": "drive to pile4[734.0, 244.0] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the farthest pile: pile1[65.0, 261.5] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile6",
+          "calculated": "pile6",
+          "llm_response": "drive to the smallest pile: pile6[414.5, 252.0] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to pile1[65.0, 261.5] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile4",
+          "calculated": "pile4",
+          "llm_response": "drive to the largest pile: pile4[734.0, 244.0] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile5",
+          "calculated": "pile6",
+          "llm_response": "drive to the nearest pile: pile5[382.0, 250.5] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.03035736083984375,
+        "llm_inference": 5.852032899856567,
+        "llm_pre_post_processing": 2.4080276489257812e-05
+      }
+    },
+    {
+      "image": "vid5_1_frame_00086_jpg.rf.6bc583b95a75b8f624d2d2d5f2e3ed8b.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            157.0,
+            255.5
+          ],
+          "area": 15386,
+          "bbox": [
+            0,
+            231,
+            314,
+            280
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            603.5,
+            247.0
+          ],
+          "area": 1530,
+          "bbox": [
+            561,
+            238,
+            646,
+            256
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            499.5,
+            256.0
+          ],
+          "area": 954,
+          "bbox": [
+            473,
+            247,
+            526,
+            265
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            451.5,
+            252.0
+          ],
+          "area": 816,
+          "bbox": [
+            426,
+            244,
+            477,
+            260
+          ]
+        },
+        {
+          "name": "pile5",
+          "position": [
+            829.0,
+            265.0
+          ],
+          "area": 10400,
+          "bbox": [
+            764,
+            225,
+            894,
+            305
+          ]
+        },
+        {
+          "name": "pile6",
+          "position": [
+            778.0,
+            248.5
+          ],
+          "area": 4446,
+          "bbox": [
+            721,
+            229,
+            835,
+            268
+          ]
+        },
+        {
+          "name": "pile7",
+          "position": [
+            536.5,
+            255.0
+          ],
+          "area": 518,
+          "bbox": [
+            518,
+            248,
+            555,
+            262
+          ]
+        },
+        {
+          "name": "pile8",
+          "position": [
+            651.0,
+            248.0
+          ],
+          "area": 1728,
+          "bbox": [
+            615,
+            236,
+            687,
+            260
+          ]
+        },
+        {
+          "name": "pile9",
+          "position": [
+            337.0,
+            238.0
+          ],
+          "area": 1440,
+          "bbox": [
+            307,
+            226,
+            367,
+            250
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          444.5,
+          469.5
+        ],
+        "bbox": [
+          417,
+          438,
+          472,
+          501
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile5",
+          "calculated": "pile5",
+          "llm_response": "drive to pile5[829.0, 265.0] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile5",
+          "calculated": "pile5",
+          "llm_response": "drive to the farthest pile: pile5[829.0, 265.0] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile3",
+          "calculated": "pile7",
+          "llm_response": "drive to the smallest pile: pile3[499.5, 256.0] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to pile1[157.0, 255.5] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the largest pile: pile1[157.0, 255.5] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile4",
+          "calculated": "pile4",
+          "llm_response": "drive to the nearest pile: pile4[451.5, 252.0] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.030115127563476562,
+        "llm_inference": 5.799191474914551,
+        "llm_pre_post_processing": 2.0742416381835938e-05
+      }
+    },
+    {
+      "image": "vid5_1_frame_00089_jpg.rf.fd098c44fcf761de8f666a340d7879bd.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            771.0,
+            244.0
+          ],
+          "area": 3816,
+          "bbox": [
+            718,
+            226,
+            824,
+            262
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            854.0,
+            249.5
+          ],
+          "area": 3760,
+          "bbox": [
+            814,
+            226,
+            894,
+            273
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            466.0,
+            256.5
+          ],
+          "area": 1140,
+          "bbox": [
+            436,
+            247,
+            496,
+            266
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            573.5,
+            259.5
+          ],
+          "area": 525,
+          "bbox": [
+            556,
+            252,
+            591,
+            267
+          ]
+        },
+        {
+          "name": "pile5",
+          "position": [
+            523.5,
+            262.0
+          ],
+          "area": 1386,
+          "bbox": [
+            492,
+            251,
+            555,
+            273
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          440.5,
+          472.5
+        ],
+        "bbox": [
+          412,
+          441,
+          469,
+          504
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to pile2[854.0, 249.5] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the farthest pile: pile2[854.0, 249.5] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile3",
+          "calculated": "pile4",
+          "llm_response": "drive to the smallest pile: pile3[466.0, 256.5] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to pile3[466.0, 256.5] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the largest pile: pile1[771.0, 244.0] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to the nearest pile: pile3[466.0, 256.5] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.028321266174316406,
+        "llm_inference": 5.857307434082031,
+        "llm_pre_post_processing": 2.3365020751953125e-05
+      }
+    },
+    {
+      "image": "vid5_1_frame_00092_jpg.rf.6b750f74df7216e44ffcce5c5288d351.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            123.5,
+            252.0
+          ],
+          "area": 10868,
+          "bbox": [
+            0,
+            230,
+            247,
+            274
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            314.0,
+            239.5
+          ],
+          "area": 4216,
+          "bbox": [
+            246,
+            224,
+            382,
+            255
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            382.5,
+            245.0
+          ],
+          "area": 592,
+          "bbox": [
+            364,
+            237,
+            401,
+            253
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            565.5,
+            268.0
+          ],
+          "area": 2790,
+          "bbox": [
+            519,
+            253,
+            612,
+            283
+          ]
+        },
+        {
+          "name": "pile5",
+          "position": [
+            742.0,
+            246.5
+          ],
+          "area": 13500,
+          "bbox": [
+            592,
+            224,
+            892,
+            269
+          ]
+        },
+        {
+          "name": "pile6",
+          "position": [
+            483.5,
+            260.5
+          ],
+          "area": 1679,
+          "bbox": [
+            447,
+            249,
+            520,
+            272
+          ]
+        },
+        {
+          "name": "pile7",
+          "position": [
+            616.5,
+            265.5
+          ],
+          "area": 1479,
+          "bbox": [
+            591,
+            251,
+            642,
+            280
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          443.5,
+          472.0
+        ],
+        "bbox": [
+          416,
+          440,
+          471,
+          504
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile5",
+          "calculated": "pile5",
+          "llm_response": "drive to pile5[742.0, 246.5] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the farthest pile: pile1[123.5, 252.0] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile4",
+          "calculated": "pile3",
+          "llm_response": "drive to the smallest pile: pile4[565.5, 268.0] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to pile1[123.5, 252.0] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile5",
+          "calculated": "pile5",
+          "llm_response": "drive to the largest pile: pile5[742.0, 246.5] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile6",
+          "calculated": "pile6",
+          "llm_response": "drive to the nearest pile: pile6[483.5, 260.5] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.029012441635131836,
+        "llm_inference": 6.0433876514434814,
+        "llm_pre_post_processing": 1.7404556274414062e-05
+      }
+    },
+    {
+      "image": "vid5_1_frame_00095_jpg.rf.bccb278d4576674812a4f2209a994756.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            628.5,
+            278.5
+          ],
+          "area": 6713,
+          "bbox": [
+            560,
+            254,
+            697,
+            303
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            324.5,
+            240.5
+          ],
+          "area": 4375,
+          "bbox": [
+            262,
+            223,
+            387,
+            258
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            508.0,
+            267.0
+          ],
+          "area": 2640,
+          "bbox": [
+            464,
+            252,
+            552,
+            282
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            828.0,
+            247.5
+          ],
+          "area": 6468,
+          "bbox": [
+            762,
+            223,
+            894,
+            272
+          ]
+        },
+        {
+          "name": "pile5",
+          "position": [
+            711.0,
+            251.0
+          ],
+          "area": 2912,
+          "bbox": [
+            655,
+            238,
+            767,
+            264
+          ]
+        },
+        {
+          "name": "pile6",
+          "position": [
+            226.5,
+            253.5
+          ],
+          "area": 2905,
+          "bbox": [
+            185,
+            236,
+            268,
+            271
+          ]
+        },
+        {
+          "name": "pile7",
+          "position": [
+            88.0,
+            242.0
+          ],
+          "area": 5780,
+          "bbox": [
+            3,
+            225,
+            173,
+            259
+          ]
+        },
+        {
+          "name": "pile8",
+          "position": [
+            399.0,
+            248.0
+          ],
+          "area": 320,
+          "bbox": [
+            389,
+            240,
+            409,
+            256
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          438.5,
+          471.0
+        ],
+        "bbox": [
+          410,
+          439,
+          467,
+          503
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile4",
+          "calculated": "pile4",
+          "llm_response": "drive to pile4[828.0, 247.5] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile4",
+          "calculated": "pile4",
+          "llm_response": "drive to the farthest pile: pile4[828.0, 247.5] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile8",
+          "calculated": "pile8",
+          "llm_response": "drive to the smallest pile: pile8[399.0, 248.0] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile7",
+          "calculated": "pile7",
+          "llm_response": "drive to pile7[88.0, 242.0] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile3",
+          "calculated": "pile1",
+          "llm_response": "drive to the largest pile: pile3[508.0, 267.0] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to the nearest pile: pile3[508.0, 267.0] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.0249178409576416,
+        "llm_inference": 6.178441286087036,
+        "llm_pre_post_processing": 1.7642974853515625e-05
+      }
+    },
+    {
+      "image": "vid5_1_frame_00098_jpg.rf.a14b9df30241ec2cb346d2c475221db7.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            557.5,
+            281.0
+          ],
+          "area": 4318,
+          "bbox": [
+            494,
+            264,
+            621,
+            298
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            547.0,
+            261.5
+          ],
+          "area": 1512,
+          "bbox": [
+            519,
+            248,
+            575,
+            275
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            130.0,
+            256.5
+          ],
+          "area": 18176,
+          "bbox": [
+            2,
+            221,
+            258,
+            292
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            321.0,
+            244.5
+          ],
+          "area": 10780,
+          "bbox": [
+            211,
+            220,
+            431,
+            269
+          ]
+        },
+        {
+          "name": "pile5",
+          "position": [
+            754.0,
+            303.0
+          ],
+          "area": 13184,
+          "bbox": [
+            651,
+            271,
+            857,
+            335
+          ]
+        },
+        {
+          "name": "pile6",
+          "position": [
+            837.5,
+            252.5
+          ],
+          "area": 3745,
+          "bbox": [
+            784,
+            235,
+            891,
+            270
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          392.5,
+          471.5
+        ],
+        "bbox": [
+          363,
+          439,
+          422,
+          504
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile6",
+          "calculated": "pile6",
+          "llm_response": "drive to pile6[837.5, 252.5] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile6",
+          "calculated": "pile6",
+          "llm_response": "drive to the farthest pile: pile6[837.5, 252.5] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the smallest pile: pile2[547.0, 261.5] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to pile3[130.0, 256.5] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to the largest pile: pile3[130.0, 256.5] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile4",
+          "calculated": "pile4",
+          "llm_response": "drive to the nearest pile: pile4[321.0, 244.5] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.030484676361083984,
+        "llm_inference": 5.878223657608032,
+        "llm_pre_post_processing": 1.9073486328125e-05
+      }
+    },
+    {
+      "image": "vid5_1_frame_00101_jpg.rf.5d9669d107bb2516b85a65afa09ef7ed.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            377.0,
+            244.0
+          ],
+          "area": 9660,
+          "bbox": [
+            272,
+            221,
+            482,
+            267
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            726.5,
+            300.5
+          ],
+          "area": 8507,
+          "bbox": [
+            636,
+            277,
+            817,
+            324
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            157.0,
+            260.5
+          ],
+          "area": 27590,
+          "bbox": [
+            2,
+            216,
+            312,
+            305
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            664.5,
+            268.5
+          ],
+          "area": 1785,
+          "bbox": [
+            622,
+            258,
+            707,
+            279
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          347.0,
+          477.5
+        ],
+        "bbox": [
+          317,
+          444,
+          377,
+          511
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to pile2[726.5, 300.5] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the farthest pile: pile2[726.5, 300.5] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile4",
+          "calculated": "pile4",
+          "llm_response": "drive to the smallest pile: pile4[664.5, 268.5] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to pile3[157.0, 260.5] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to the largest pile: pile3[157.0, 260.5] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the nearest pile: pile1[377.0, 244.0] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.028370141983032227,
+        "llm_inference": 5.822859287261963,
+        "llm_pre_post_processing": 1.6927719116210938e-05
+      }
+    },
+    {
+      "image": "vid5_1_frame_00104_jpg.rf.95bc73bb4e7d16c4a5743c0b964ce75e.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            250.0,
+            283.0
+          ],
+          "area": 55404,
+          "bbox": [
+            7,
+            226,
+            493,
+            340
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            563.5,
+            249.0
+          ],
+          "area": 14326,
+          "bbox": [
+            440,
+            220,
+            687,
+            278
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            690.0,
+            248.0
+          ],
+          "area": 2304,
+          "bbox": [
+            658,
+            230,
+            722,
+            266
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          234.0,
+          483.5
+        ],
+        "bbox": [
+          199,
+          447,
+          269,
+          520
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to pile3[690.0, 248.0] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to the farthest pile: pile3[690.0, 248.0] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to the smallest pile: pile3[690.0, 248.0] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to pile1[250.0, 283.0] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the largest pile: pile1[250.0, 283.0] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the nearest pile: pile1[250.0, 283.0] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.027765750885009766,
+        "llm_inference": 5.57619571685791,
+        "llm_pre_post_processing": 1.4543533325195312e-05
+      }
+    },
+    {
+      "image": "vid5_1_frame_00107_jpg.rf.8a57d7aa9485a88c1514e118db507a77.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            438.0,
+            297.5
+          ],
+          "area": 126730,
+          "bbox": [
+            1,
+            225,
+            875,
+            370
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          209.5,
+          500.0
+        ],
+        "bbox": [
+          168,
+          457,
+          251,
+          543
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to pile1[438.0, 297.5] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the farthest pile: pile1[438.0, 297.5] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the smallest pile: pile1[438.0, 297.5] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to pile1[438.0, 297.5] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the largest pile: pile1[438.0, 297.5] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the nearest pile: pile1[438.0, 297.5] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.028458833694458008,
+        "llm_inference": 5.857055425643921,
+        "llm_pre_post_processing": 1.33514404296875e-05
+      }
+    },
+    {
+      "image": "vid5_1_frame_00110_jpg.rf.1cd9f84dd4e7eef5ee13343bcf5509f5.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            644.0,
+            342.5
+          ],
+          "area": 114708,
+          "bbox": [
+            402,
+            224,
+            886,
+            461
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            208.0,
+            366.0
+          ],
+          "area": 112340,
+          "bbox": [
+            3,
+            229,
+            413,
+            503
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          318.0,
+          489.5
+        ],
+        "bbox": [
+          289,
+          458,
+          347,
+          521
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to pile1[644.0, 342.5] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the farthest pile: pile1[644.0, 342.5] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the smallest pile: pile2[208.0, 366.0] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to pile2[208.0, 366.0] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the largest pile: pile1[644.0, 342.5] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the nearest pile: pile2[208.0, 366.0] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.028094053268432617,
+        "llm_inference": 5.746082067489624,
+        "llm_pre_post_processing": 1.6689300537109375e-05
+      }
+    },
+    {
+      "image": "vid5_2_frame_00001_jpg.rf.2f029e739436a8054a0e3ae8a922590f.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            660.0,
+            299.0
+          ],
+          "area": 58528,
+          "bbox": [
+            424,
+            237,
+            896,
+            361
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            273.5,
+            240.5
+          ],
+          "area": 24395,
+          "bbox": [
+            130,
+            198,
+            417,
+            283
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            127.5,
+            229.0
+          ],
+          "area": 12090,
+          "bbox": [
+            30,
+            198,
+            225,
+            260
+          ]
+        }
+      ],
+      "anchor": null,
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.02121710777282715,
+        "llm_inference": 0,
+        "llm_pre_post_processing": 0
+      }
+    },
+    {
+      "image": "vid5_2_frame_00004_jpg.rf.dd94c841d1327c4b16c244501c27ceb8.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            149.5,
+            232.5
+          ],
+          "area": 9861,
+          "bbox": [
+            63,
+            204,
+            236,
+            261
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            287.0,
+            245.0
+          ],
+          "area": 21120,
+          "bbox": [
+            155,
+            205,
+            419,
+            285
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            653.5,
+            294.5
+          ],
+          "area": 52093,
+          "bbox": [
+            423,
+            238,
+            884,
+            351
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            33.0,
+            233.5
+          ],
+          "area": 1984,
+          "bbox": [
+            1,
+            218,
+            65,
+            249
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          259.0,
+          481.5
+        ],
+        "bbox": [
+          226,
+          449,
+          292,
+          514
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to pile3[653.5, 294.5] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to the farthest pile: pile3[653.5, 294.5] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile4",
+          "calculated": "pile4",
+          "llm_response": "drive to the smallest pile: pile4[33.0, 233.5] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile4",
+          "calculated": "pile4",
+          "llm_response": "drive to pile4[33.0, 233.5] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to the largest pile: pile3[653.5, 294.5] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the nearest pile: pile2[287.0, 245.0] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.02475881576538086,
+        "llm_inference": 5.9497575759887695,
+        "llm_pre_post_processing": 1.6689300537109375e-05
+      }
+    },
+    {
+      "image": "vid5_2_frame_00007_jpg.rf.03a254374ffa8178423aba80a750989f.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            310.5,
+            233.0
+          ],
+          "area": 7290,
+          "bbox": [
+            243,
+            206,
+            378,
+            260
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            429.5,
+            245.0
+          ],
+          "area": 19422,
+          "bbox": [
+            305,
+            206,
+            554,
+            284
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            729.0,
+            317.0
+          ],
+          "area": 41580,
+          "bbox": [
+            564,
+            254,
+            894,
+            380
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            162.5,
+            235.5
+          ],
+          "area": 2015,
+          "bbox": [
+            130,
+            220,
+            195,
+            251
+          ]
+        },
+        {
+          "name": "pile5",
+          "position": [
+            209.5,
+            231.0
+          ],
+          "area": 1416,
+          "bbox": [
+            180,
+            219,
+            239,
+            243
+          ]
+        },
+        {
+          "name": "pile6",
+          "position": [
+            29.0,
+            235.0
+          ],
+          "area": 2552,
+          "bbox": [
+            0,
+            213,
+            58,
+            257
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          253.5,
+          496.5
+        ],
+        "bbox": [
+          221,
+          465,
+          286,
+          528
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to pile3[729.0, 317.0] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to the farthest pile: pile3[729.0, 317.0] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile5",
+          "calculated": "pile5",
+          "llm_response": "drive to the smallest pile: pile5[209.5, 231.0] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile6",
+          "calculated": "pile6",
+          "llm_response": "drive to pile6[29.0, 235.0] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to the largest pile: pile3[729.0, 317.0] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile1",
+          "calculated": "pile5",
+          "llm_response": "drive to the nearest pile: pile1[310.5, 233.0] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.02970409393310547,
+        "llm_inference": 5.73400616645813,
+        "llm_pre_post_processing": 2.2172927856445312e-05
+      }
+    },
+    {
+      "image": "vid5_2_frame_00010_jpg.rf.5208aa7829f55254899cc6fe1f2320b8.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            152.0,
+            227.0
+          ],
+          "area": 11880,
+          "bbox": [
+            42,
+            200,
+            262,
+            254
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            651.5,
+            240.5
+          ],
+          "area": 29281,
+          "bbox": [
+            487,
+            196,
+            816,
+            285
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            506.0,
+            232.0
+          ],
+          "area": 9184,
+          "bbox": [
+            424,
+            204,
+            588,
+            260
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            353.0,
+            232.5
+          ],
+          "area": 1674,
+          "bbox": [
+            322,
+            219,
+            384,
+            246
+          ]
+        },
+        {
+          "name": "pile5",
+          "position": [
+            39.0,
+            233.5
+          ],
+          "area": 3822,
+          "bbox": [
+            0,
+            209,
+            78,
+            258
+          ]
+        },
+        {
+          "name": "pile6",
+          "position": [
+            389.5,
+            228.5
+          ],
+          "area": 1155,
+          "bbox": [
+            362,
+            218,
+            417,
+            239
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          311.5,
+          495.0
+        ],
+        "bbox": [
+          279,
+          459,
+          344,
+          531
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to pile2[651.5, 240.5] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the farthest pile: pile2[651.5, 240.5] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile6",
+          "calculated": "pile6",
+          "llm_response": "drive to the smallest pile: pile6[389.5, 228.5] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile5",
+          "calculated": "pile5",
+          "llm_response": "drive to pile5[39.0, 233.5] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the largest pile: pile2[651.5, 240.5] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile4",
+          "calculated": "pile4",
+          "llm_response": "drive to the nearest pile: pile4[353.0, 232.5] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.029168367385864258,
+        "llm_inference": 5.690406322479248,
+        "llm_pre_post_processing": 2.47955322265625e-05
+      }
+    },
+    {
+      "image": "vid5_2_frame_00013_jpg.rf.8cbbeefec6d6809cc34b5f2877b57517.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            443.0,
+            229.5
+          ],
+          "area": 2706,
+          "bbox": [
+            402,
+            213,
+            484,
+            246
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            728.0,
+            246.5
+          ],
+          "area": 32926,
+          "bbox": [
+            565,
+            196,
+            891,
+            297
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            586.0,
+            231.0
+          ],
+          "area": 11656,
+          "bbox": [
+            492,
+            200,
+            680,
+            262
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            73.5,
+            237.0
+          ],
+          "area": 6204,
+          "bbox": [
+            3,
+            215,
+            144,
+            259
+          ]
+        },
+        {
+          "name": "pile5",
+          "position": [
+            210.0,
+            230.0
+          ],
+          "area": 9936,
+          "bbox": [
+            118,
+            203,
+            302,
+            257
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          359.0,
+          488.0
+        ],
+        "bbox": [
+          331,
+          456,
+          387,
+          520
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to pile2[728.0, 246.5] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the farthest pile: pile2[728.0, 246.5] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the smallest pile: pile1[443.0, 229.5] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile4",
+          "calculated": "pile4",
+          "llm_response": "drive to pile4[73.5, 237.0] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the largest pile: pile2[728.0, 246.5] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the nearest pile: pile1[443.0, 229.5] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.029331207275390625,
+        "llm_inference": 5.810286283493042,
+        "llm_pre_post_processing": 3.695487976074219e-05
+      }
+    },
+    {
+      "image": "vid5_2_frame_00016_jpg.rf.3687407faeb29877f57df754a2fc9d7b.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            481.5,
+            231.5
+          ],
+          "area": 3103,
+          "bbox": [
+            428,
+            217,
+            535,
+            246
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            93.0,
+            231.0
+          ],
+          "area": 12880,
+          "bbox": [
+            1,
+            196,
+            185,
+            266
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            254.0,
+            232.0
+          ],
+          "area": 11312,
+          "bbox": [
+            153,
+            204,
+            355,
+            260
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            666.0,
+            233.5
+          ],
+          "area": 16008,
+          "bbox": [
+            550,
+            199,
+            782,
+            268
+          ]
+        },
+        {
+          "name": "pile5",
+          "position": [
+            779.0,
+            258.5
+          ],
+          "area": 28956,
+          "bbox": [
+            665,
+            195,
+            893,
+            322
+          ]
+        },
+        {
+          "name": "pile6",
+          "position": [
+            30.0,
+            251.0
+          ],
+          "area": 2040,
+          "bbox": [
+            0,
+            234,
+            60,
+            268
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          383.5,
+          481.5
+        ],
+        "bbox": [
+          357,
+          451,
+          410,
+          512
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile5",
+          "calculated": "pile5",
+          "llm_response": "drive to pile5[779.0, 258.5] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile5",
+          "calculated": "pile5",
+          "llm_response": "drive to the farthest pile: pile5[779.0, 258.5] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile6",
+          "calculated": "pile6",
+          "llm_response": "drive to the smallest pile: pile6[30.0, 251.0] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile6",
+          "calculated": "pile6",
+          "llm_response": "drive to pile6[30.0, 251.0] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile5",
+          "calculated": "pile5",
+          "llm_response": "drive to the largest pile: pile5[779.0, 258.5] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile3",
+          "calculated": "pile1",
+          "llm_response": "drive to the nearest pile: pile3[254.0, 232.0] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.02862858772277832,
+        "llm_inference": 5.707650661468506,
+        "llm_pre_post_processing": 1.7642974853515625e-05
+      }
+    },
+    {
+      "image": "vid5_2_frame_00019_jpg.rf.af48dba6a3733a453bc71cc9a1301fbf.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            90.5,
+            245.0
+          ],
+          "area": 9576,
+          "bbox": [
+            5,
+            217,
+            176,
+            273
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            265.0,
+            235.0
+          ],
+          "area": 12600,
+          "bbox": [
+            160,
+            205,
+            370,
+            265
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            509.0,
+            226.0
+          ],
+          "area": 2652,
+          "bbox": [
+            458,
+            213,
+            560,
+            239
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            734.5,
+            239.0
+          ],
+          "area": 26402,
+          "bbox": [
+            581,
+            196,
+            888,
+            282
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          416.0,
+          477.0
+        ],
+        "bbox": [
+          389,
+          446,
+          443,
+          508
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile4",
+          "calculated": "pile4",
+          "llm_response": "drive to pile4[734.5, 239.0] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the farthest pile: pile1[90.5, 245.0] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to the smallest pile: pile3[509.0, 226.0] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to pile1[90.5, 245.0] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile4",
+          "calculated": "pile4",
+          "llm_response": "drive to the largest pile: pile4[734.5, 239.0] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to the nearest pile: pile3[509.0, 226.0] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.028090715408325195,
+        "llm_inference": 5.742191314697266,
+        "llm_pre_post_processing": 1.6689300537109375e-05
+      }
+    },
+    {
+      "image": "vid5_2_frame_00022_jpg.rf.0cb373d6fa4b4a9dc1c304c67f5fffb9.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            279.0,
+            243.0
+          ],
+          "area": 16864,
+          "bbox": [
+            155,
+            209,
+            403,
+            277
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            563.0,
+            235.0
+          ],
+          "area": 2100,
+          "bbox": [
+            528,
+            220,
+            598,
+            250
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            83.0,
+            255.0
+          ],
+          "area": 10956,
+          "bbox": [
+            0,
+            222,
+            166,
+            288
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            510.0,
+            240.5
+          ],
+          "area": 2146,
+          "bbox": [
+            481,
+            222,
+            539,
+            259
+          ]
+        },
+        {
+          "name": "pile5",
+          "position": [
+            748.0,
+            243.5
+          ],
+          "area": 27354,
+          "bbox": [
+            607,
+            195,
+            889,
+            292
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          442.0,
+          481.5
+        ],
+        "bbox": [
+          416,
+          451,
+          468,
+          512
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile5",
+          "calculated": "pile5",
+          "llm_response": "drive to pile5[748.0, 243.5] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to the farthest pile: pile3[83.0, 255.0] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the smallest pile: pile2[563.0, 235.0] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to pile3[83.0, 255.0] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile5",
+          "calculated": "pile5",
+          "llm_response": "drive to the largest pile: pile5[748.0, 243.5] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile4",
+          "calculated": "pile4",
+          "llm_response": "drive to the nearest pile: pile4[510.0, 240.5] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.02370738983154297,
+        "llm_inference": 5.760009288787842,
+        "llm_pre_post_processing": 1.4781951904296875e-05
+      }
+    },
+    {
+      "image": "vid5_2_frame_00028_jpg.rf.ed5d0d8bc6532fd72dd562c7361c300a.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            219.5,
+            255.0
+          ],
+          "area": 35880,
+          "bbox": [
+            47,
+            203,
+            392,
+            307
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            359.0,
+            227.0
+          ],
+          "area": 5964,
+          "bbox": [
+            288,
+            206,
+            430,
+            248
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            33.5,
+            280.0
+          ],
+          "area": 4422,
+          "bbox": [
+            0,
+            247,
+            67,
+            313
+          ]
+        }
+      ],
+      "anchor": null,
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.019939184188842773,
+        "llm_inference": 0,
+        "llm_pre_post_processing": 0
+      }
+    },
+    {
+      "image": "vid5_2_frame_00031_jpg.rf.fcd578a484494ed50378014094a40cdf.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            349.0,
+            237.0
+          ],
+          "area": 4896,
+          "bbox": [
+            277,
+            220,
+            421,
+            254
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            206.5,
+            271.0
+          ],
+          "area": 57226,
+          "bbox": [
+            5,
+            200,
+            408,
+            342
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            573.5,
+            243.0
+          ],
+          "area": 5742,
+          "bbox": [
+            524,
+            214,
+            623,
+            272
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            613.5,
+            231.0
+          ],
+          "area": 2550,
+          "bbox": [
+            576,
+            214,
+            651,
+            248
+          ]
+        },
+        {
+          "name": "pile5",
+          "position": [
+            502.0,
+            236.5
+          ],
+          "area": 2436,
+          "bbox": [
+            460,
+            222,
+            544,
+            251
+          ]
+        },
+        {
+          "name": "pile6",
+          "position": [
+            786.0,
+            241.0
+          ],
+          "area": 18952,
+          "bbox": [
+            683,
+            195,
+            889,
+            287
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          456.0,
+          479.5
+        ],
+        "bbox": [
+          429,
+          449,
+          483,
+          510
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile6",
+          "calculated": "pile6",
+          "llm_response": "drive to pile6[786.0, 241.0] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile6",
+          "calculated": "pile6",
+          "llm_response": "drive to the farthest pile: pile6[786.0, 241.0] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile4",
+          "calculated": "pile5",
+          "llm_response": "drive to the smallest pile: pile4[613.5, 231.0] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to pile2[206.5, 271.0] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the largest pile: pile2[206.5, 271.0] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile5",
+          "calculated": "pile5",
+          "llm_response": "drive to the nearest pile: pile5[502.0, 236.5] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.02388143539428711,
+        "llm_inference": 5.792865991592407,
+        "llm_pre_post_processing": 1.8358230590820312e-05
+      }
+    },
+    {
+      "image": "vid5_2_frame_00037_jpg.rf.6605ceb2ee067aee1f9b59936c781dd2.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            387.0,
+            240.0
+          ],
+          "area": 9672,
+          "bbox": [
+            294,
+            214,
+            480,
+            266
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            180.0,
+            309.5
+          ],
+          "area": 81066,
+          "bbox": [
+            3,
+            195,
+            357,
+            424
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            631.5,
+            220.5
+          ],
+          "area": 11685,
+          "bbox": [
+            529,
+            192,
+            734,
+            249
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          322.5,
+          497.0
+        ],
+        "bbox": [
+          293,
+          466,
+          352,
+          528
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to pile3[631.5, 220.5] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to the farthest pile: pile3[631.5, 220.5] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the smallest pile: pile1[387.0, 240.0] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to pile2[180.0, 309.5] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the largest pile: pile2[180.0, 309.5] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the nearest pile: pile2[180.0, 309.5] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.02921891212463379,
+        "llm_inference": 6.033946514129639,
+        "llm_pre_post_processing": 1.811981201171875e-05
+      }
+    },
+    {
+      "image": "vid5_3_frame_00038_jpg.rf.662cb30623d709da2ac6ef1793e5ad01.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            634.0,
+            233.5
+          ],
+          "area": 11024,
+          "bbox": [
+            530,
+            207,
+            738,
+            260
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            310.5,
+            263.0
+          ],
+          "area": 46530,
+          "bbox": [
+            99,
+            208,
+            522,
+            318
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            822.5,
+            228.5
+          ],
+          "area": 7791,
+          "bbox": [
+            749,
+            202,
+            896,
+            255
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          319.5,
+          484.5
+        ],
+        "bbox": [
+          290,
+          450,
+          349,
+          519
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to pile3[822.5, 228.5] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to the farthest pile: pile3[822.5, 228.5] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to the smallest pile: pile3[822.5, 228.5] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to pile2[310.5, 263.0] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the largest pile: pile2[310.5, 263.0] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the nearest pile: pile2[310.5, 263.0] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.02875995635986328,
+        "llm_inference": 5.837420463562012,
+        "llm_pre_post_processing": 2.1696090698242188e-05
+      }
+    },
+    {
+      "image": "vid5_4_frame_00001_jpg.rf.cab7ab9863831f314eba6c902061f6e6.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            123.5,
+            266.0
+          ],
+          "area": 24206,
+          "bbox": [
+            0,
+            217,
+            247,
+            315
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            466.0,
+            311.5
+          ],
+          "area": 203820,
+          "bbox": [
+            36,
+            193,
+            896,
+            430
+          ]
+        }
+      ],
+      "anchor": null,
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.022923707962036133,
+        "llm_inference": 0,
+        "llm_pre_post_processing": 0
+      }
+    },
+    {
+      "image": "vid5_4_frame_00076_jpg.rf.a9f9abc5f598df6f89ec5f6b949e3753.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            678.5,
+            279.5
+          ],
+          "area": 26873,
+          "bbox": [
+            504,
+            241,
+            853,
+            318
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            249.5,
+            241.5
+          ],
+          "area": 48403,
+          "bbox": [
+            0,
+            193,
+            499,
+            290
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          121.0,
+          410.5
+        ],
+        "bbox": [
+          50,
+          334,
+          192,
+          487
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to pile1[678.5, 279.5] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the farthest pile: pile1[678.5, 279.5] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the smallest pile: pile1[678.5, 279.5] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to pile2[249.5, 241.5] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the largest pile: pile2[249.5, 241.5] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the nearest pile: pile2[249.5, 241.5] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.023986339569091797,
+        "llm_inference": 5.655001640319824,
+        "llm_pre_post_processing": 1.71661376953125e-05
+      }
+    },
+    {
+      "image": "vid5_4_frame_00106_jpg.rf.1cb5ca4731163c81fca475a1e52d37e3.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            796.0,
+            363.0
+          ],
+          "area": 22800,
+          "bbox": [
+            696,
+            306,
+            896,
+            420
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            298.5,
+            312.0
+          ],
+          "area": 22088,
+          "bbox": [
+            173,
+            268,
+            424,
+            356
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            233.5,
+            252.0
+          ],
+          "area": 7938,
+          "bbox": [
+            139,
+            231,
+            328,
+            273
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            370.0,
+            252.5
+          ],
+          "area": 4340,
+          "bbox": [
+            308,
+            235,
+            432,
+            270
+          ]
+        }
+      ],
+      "anchor": null,
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": null,
+          "calculated": null,
+          "llm_response": null
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.02107548713684082,
+        "llm_inference": 0,
+        "llm_pre_post_processing": 0
+      }
+    },
+    {
+      "image": "vid5_4_frame_00121_jpg.rf.93802feffb8b7bdda962673b3c6c3610.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            651.5,
+            269.5
+          ],
+          "area": 26063,
+          "bbox": [
+            457,
+            236,
+            846,
+            303
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            345.5,
+            265.5
+          ],
+          "area": 12545,
+          "bbox": [
+            249,
+            233,
+            442,
+            298
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          711.0,
+          519.0
+        ],
+        "bbox": [
+          673,
+          482,
+          749,
+          556
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to pile1[651.5, 269.5] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the farthest pile: pile2[345.5, 265.5] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the smallest pile: pile2[345.5, 265.5] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to pile2[345.5, 265.5] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the largest pile: pile1[651.5, 269.5] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the nearest pile: pile1[651.5, 269.5] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.02417135238647461,
+        "llm_inference": 6.119391679763794,
+        "llm_pre_post_processing": 1.5497207641601562e-05
+      }
+    },
+    {
+      "image": "vid5_5_frame_00008_jpg.rf.16a5ab3ba32b41c635bc2dbba31bc3da.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            719.0,
+            231.5
+          ],
+          "area": 7524,
+          "bbox": [
+            653,
+            203,
+            785,
+            260
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            805.5,
+            232.5
+          ],
+          "area": 11859,
+          "bbox": [
+            717,
+            199,
+            894,
+            266
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            442.5,
+            236.5
+          ],
+          "area": 4329,
+          "bbox": [
+            384,
+            218,
+            501,
+            255
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            597.5,
+            233.0
+          ],
+          "area": 1898,
+          "bbox": [
+            561,
+            220,
+            634,
+            246
+          ]
+        },
+        {
+          "name": "pile5",
+          "position": [
+            184.0,
+            328.5
+          ],
+          "area": 17696,
+          "bbox": [
+            72,
+            289,
+            296,
+            368
+          ]
+        },
+        {
+          "name": "pile6",
+          "position": [
+            319.0,
+            244.5
+          ],
+          "area": 4602,
+          "bbox": [
+            260,
+            225,
+            378,
+            264
+          ]
+        },
+        {
+          "name": "pile7",
+          "position": [
+            267.0,
+            280.0
+          ],
+          "area": 6808,
+          "bbox": [
+            193,
+            257,
+            341,
+            303
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          438.0,
+          472.5
+        ],
+        "bbox": [
+          413,
+          443,
+          463,
+          502
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to pile2[805.5, 232.5] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the farthest pile: pile2[805.5, 232.5] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile4",
+          "calculated": "pile4",
+          "llm_response": "drive to the smallest pile: pile4[597.5, 233.0] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile5",
+          "calculated": "pile5",
+          "llm_response": "drive to pile5[184.0, 328.5] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile5",
+          "calculated": "pile5",
+          "llm_response": "drive to the largest pile: pile5[184.0, 328.5] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to the nearest pile: pile3[442.5, 236.5] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.03081035614013672,
+        "llm_inference": 5.815158128738403,
+        "llm_pre_post_processing": 2.2649765014648438e-05
+      }
+    },
+    {
+      "image": "vid5_5_frame_00047_jpg.rf.4c12f65665601a0af8b6259236b960f2.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            447.0,
+            323.0
+          ],
+          "area": 216348,
+          "bbox": [
+            0,
+            202,
+            894,
+            444
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          564.0,
+          493.5
+        ],
+        "bbox": [
+          535,
+          463,
+          593,
+          524
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to pile1[447.0, 323.0] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the farthest pile: pile1[447.0, 323.0] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile2",
+          "calculated": "pile1",
+          "llm_response": "drive to the smallest pile: pile2[342.0, 323.0] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to pile1[447.0, 323.0] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the largest pile: pile1[447.0, 323.0] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the nearest pile: pile1[447.0, 323.0] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.03174996376037598,
+        "llm_inference": 5.683880567550659,
+        "llm_pre_post_processing": 1.2636184692382812e-05
+      }
+    },
+    {
+      "image": "vid5_6_frame_00002_jpg.rf.7c84b4aa1680cfb1033abdadf2a3bcc3.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            187.0,
+            240.0
+          ],
+          "area": 7488,
+          "bbox": [
+            109,
+            216,
+            265,
+            264
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            54.5,
+            238.5
+          ],
+          "area": 5341,
+          "bbox": [
+            0,
+            214,
+            109,
+            263
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            295.0,
+            271.0
+          ],
+          "area": 5060,
+          "bbox": [
+            240,
+            248,
+            350,
+            294
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          362.5,
+          473.5
+        ],
+        "bbox": [
+          334,
+          441,
+          391,
+          506
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to pile3[295.0, 271.0] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the farthest pile: pile2[54.5, 238.5] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to the smallest pile: pile3[295.0, 271.0] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to pile2[54.5, 238.5] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile1",
+          "calculated": "pile1",
+          "llm_response": "drive to the largest pile: pile1[187.0, 240.0] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile3",
+          "calculated": "pile3",
+          "llm_response": "drive to the nearest pile: pile3[295.0, 271.0] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.02807450294494629,
+        "llm_inference": 5.8328773975372314,
+        "llm_pre_post_processing": 1.9550323486328125e-05
+      }
+    },
+    {
+      "image": "vid5_7_frame_00007_jpg.rf.472539de71e2ef22cd04ecdb78f80d49.jpg",
+      "piles": [
+        {
+          "name": "pile1",
+          "position": [
+            762.0,
+            225.0
+          ],
+          "area": 15000,
+          "bbox": [
+            637,
+            195,
+            887,
+            255
+          ]
+        },
+        {
+          "name": "pile2",
+          "position": [
+            368.0,
+            228.5
+          ],
+          "area": 9282,
+          "bbox": [
+            277,
+            203,
+            459,
+            254
+          ]
+        },
+        {
+          "name": "pile3",
+          "position": [
+            553.0,
+            228.0
+          ],
+          "area": 2100,
+          "bbox": [
+            518,
+            213,
+            588,
+            243
+          ]
+        },
+        {
+          "name": "pile4",
+          "position": [
+            599.5,
+            225.5
+          ],
+          "area": 2015,
+          "bbox": [
+            567,
+            210,
+            632,
+            241
+          ]
+        },
+        {
+          "name": "pile5",
+          "position": [
+            210.0,
+            236.0
+          ],
+          "area": 2040,
+          "bbox": [
+            180,
+            219,
+            240,
+            253
+          ]
+        },
+        {
+          "name": "pile6",
+          "position": [
+            96.0,
+            241.0
+          ],
+          "area": 13536,
+          "bbox": [
+            2,
+            205,
+            190,
+            277
+          ]
+        },
+        {
+          "name": "pile7",
+          "position": [
+            807.5,
+            266.0
+          ],
+          "area": 18054,
+          "bbox": [
+            719,
+            215,
+            896,
+            317
+          ]
+        }
+      ],
+      "anchor": {
+        "position": [
+          364.5,
+          464.5
+        ],
+        "bbox": [
+          337,
+          431,
+          392,
+          498
+        ]
+      },
+      "tasks": [
+        {
+          "task": "Start at the rightmost pile",
+          "prediction": "pile7",
+          "calculated": "pile7",
+          "llm_response": "drive to pile7[807.5, 266.0] and initiate digging"
+        },
+        {
+          "task": "Clear a remote pile",
+          "prediction": "pile1",
+          "calculated": "pile7",
+          "llm_response": "drive to the farthest pile: pile1[762.0, 225.0] and initiate digging"
+        },
+        {
+          "task": "Clear a pile as fast as possible",
+          "prediction": "pile4",
+          "calculated": "pile4",
+          "llm_response": "drive to the smallest pile: pile4[599.5, 225.5] and initiate digging"
+        },
+        {
+          "task": "Start at the leftmost pile",
+          "prediction": "pile6",
+          "calculated": "pile6",
+          "llm_response": "drive to pile6[96.0, 241.0] and initiate digging"
+        },
+        {
+          "task": "Process the largest pile",
+          "prediction": "pile7",
+          "calculated": "pile7",
+          "llm_response": "drive to the largest pile: pile7[807.5, 266.0] and initiate digging"
+        },
+        {
+          "task": "Fill the shovel",
+          "prediction": "pile2",
+          "calculated": "pile2",
+          "llm_response": "drive to the nearest pile: pile2[368.0, 228.5] and initiate digging"
+        }
+      ],
+      "computation_times": {
+        "detection_pre_post_processing": 0.02970147132873535,
+        "llm_inference": 5.5980870723724365,
+        "llm_pre_post_processing": 1.8358230590820312e-05
+      }
+    }
+  ]
+}

@@ -1,0 +1,3114 @@
+{
+  "vid5_1_frame_00086_jpg.rf.6bc583b95a75b8f624d2d2d5f2e3ed8b.jpg": [
+    {
+      "bbox": [
+        0,
+        231,
+        314,
+        280
+      ],
+      "confidence": 0.6552,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        561,
+        238,
+        646,
+        256
+      ],
+      "confidence": 0.7675,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        473,
+        247,
+        526,
+        265
+      ],
+      "confidence": 0.8289,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        426,
+        244,
+        477,
+        260
+      ],
+      "confidence": 0.7372,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        417,
+        438,
+        472,
+        501
+      ],
+      "confidence": 0.7487,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        764,
+        225,
+        894,
+        305
+      ],
+      "confidence": 0.6667,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        721,
+        229,
+        835,
+        268
+      ],
+      "confidence": 0.724,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        518,
+        248,
+        555,
+        262
+      ],
+      "confidence": 0.7654,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        615,
+        236,
+        687,
+        260
+      ],
+      "confidence": 0.8473,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        307,
+        226,
+        367,
+        250
+      ],
+      "confidence": 0.6983,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_1_frame_00098_jpg.rf.a14b9df30241ec2cb346d2c475221db7.jpg": [
+    {
+      "bbox": [
+        494,
+        264,
+        621,
+        298
+      ],
+      "confidence": 0.6533,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        519,
+        248,
+        575,
+        275
+      ],
+      "confidence": 0.6978,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        2,
+        221,
+        258,
+        292
+      ],
+      "confidence": 0.7354,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        211,
+        220,
+        431,
+        269
+      ],
+      "confidence": 0.8292,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        651,
+        271,
+        857,
+        335
+      ],
+      "confidence": 0.7058,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        363,
+        439,
+        422,
+        504
+      ],
+      "confidence": 0.7147,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        784,
+        235,
+        891,
+        270
+      ],
+      "confidence": 0.8425,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_1_frame_00038_jpg.rf.322442a67937935a7f5e8cc3ece8b36f.jpg": [
+    {
+      "bbox": [
+        355,
+        256,
+        481,
+        293
+      ],
+      "confidence": 0.7275,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        270,
+        262,
+        360,
+        297
+      ],
+      "confidence": 0.7683,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        444,
+        446,
+        501,
+        510
+      ],
+      "confidence": 0.6906,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        469,
+        230,
+        725,
+        290
+      ],
+      "confidence": 0.7849,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_1_frame_00107_jpg.rf.8a57d7aa9485a88c1514e118db507a77.jpg": [
+    {
+      "bbox": [
+        1,
+        225,
+        875,
+        370
+      ],
+      "confidence": 0.8354,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        168,
+        457,
+        251,
+        543
+      ],
+      "confidence": 0.6738,
+      "class_id": 0,
+      "class_name": "anchor"
+    }
+  ],
+  "vid5_1_frame_00053_jpg.rf.377025916955c2dd089c44ee7d52d3ad.jpg": [
+    {
+      "bbox": [
+        430,
+        209,
+        657,
+        265
+      ],
+      "confidence": 0.7593,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        164,
+        231,
+        259,
+        257
+      ],
+      "confidence": 0.6688,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        632,
+        189,
+        890,
+        361
+      ],
+      "confidence": 0.8171,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        375,
+        448,
+        434,
+        513
+      ],
+      "confidence": 0.7536,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        211,
+        219,
+        404,
+        281
+      ],
+      "confidence": 0.7264,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        410,
+        268,
+        591,
+        314
+      ],
+      "confidence": 0.83,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        120,
+        238,
+        167,
+        251
+      ],
+      "confidence": 0.729,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        1,
+        206,
+        78,
+        247
+      ],
+      "confidence": 0.6992,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_1_frame_00068_jpg.rf.89b1102631be1f4809b74befc12a0476.jpg": [
+    {
+      "bbox": [
+        335,
+        444,
+        394,
+        510
+      ],
+      "confidence": 0.7188,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        0,
+        197,
+        256,
+        510
+      ],
+      "confidence": 0.7629,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        397,
+        220,
+        521,
+        255
+      ],
+      "confidence": 0.7539,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        294,
+        236,
+        325,
+        248
+      ],
+      "confidence": 0.8369,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        360,
+        231,
+        409,
+        247
+      ],
+      "confidence": 0.6822,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        411,
+        195,
+        896,
+        702
+      ],
+      "confidence": 0.7853,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_5_frame_00008_jpg.rf.16a5ab3ba32b41c635bc2dbba31bc3da.jpg": [
+    {
+      "bbox": [
+        413,
+        443,
+        463,
+        502
+      ],
+      "confidence": 0.6643,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        653,
+        203,
+        785,
+        260
+      ],
+      "confidence": 0.7397,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        717,
+        199,
+        894,
+        266
+      ],
+      "confidence": 0.7331,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        384,
+        218,
+        501,
+        255
+      ],
+      "confidence": 0.7703,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        561,
+        220,
+        634,
+        246
+      ],
+      "confidence": 0.6612,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        72,
+        289,
+        296,
+        368
+      ],
+      "confidence": 0.8189,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        260,
+        225,
+        378,
+        264
+      ],
+      "confidence": 0.6855,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        193,
+        257,
+        341,
+        303
+      ],
+      "confidence": 0.846,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_1_frame_00017_jpg.rf.832565d9cc5d1a872a709f093f0a3ad3.jpg": [
+    {
+      "bbox": [
+        436,
+        444,
+        491,
+        508
+      ],
+      "confidence": 0.8483,
+      "class_id": 0,
+      "class_name": "anchor"
+    }
+  ],
+  "vid5_1_frame_00044_jpg.rf.11a60b656b064bc3f5510afb3e236db3.jpg": [
+    {
+      "bbox": [
+        466,
+        213,
+        882,
+        295
+      ],
+      "confidence": 0.8408,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        340,
+        248,
+        494,
+        285
+      ],
+      "confidence": 0.7735,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        439,
+        454,
+        495,
+        518
+      ],
+      "confidence": 0.7811,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        220,
+        256,
+        336,
+        297
+      ],
+      "confidence": 0.7713,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        0,
+        246,
+        76,
+        279
+      ],
+      "confidence": 0.7947,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        352,
+        285,
+        440,
+        300
+      ],
+      "confidence": 0.6589,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_1_frame_00071_jpg.rf.7cb568f5ec0022725d6503ae31e8cf2b.jpg": [
+    {
+      "bbox": [
+        591,
+        274,
+        894,
+        621
+      ],
+      "confidence": 0.679,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        524,
+        203,
+        890,
+        303
+      ],
+      "confidence": 0.7325,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        320,
+        239,
+        347,
+        248
+      ],
+      "confidence": 0.7911,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        384,
+        438,
+        441,
+        503
+      ],
+      "confidence": 0.687,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        0,
+        209,
+        292,
+        546
+      ],
+      "confidence": 0.723,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        472,
+        221,
+        618,
+        257
+      ],
+      "confidence": 0.7056,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        369,
+        238,
+        394,
+        248
+      ],
+      "confidence": 0.7374,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        5,
+        207,
+        201,
+        279
+      ],
+      "confidence": 0.8298,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        349,
+        241,
+        368,
+        249
+      ],
+      "confidence": 0.7689,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        535,
+        236,
+        629,
+        280
+      ],
+      "confidence": 0.8227,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        418,
+        231,
+        483,
+        248
+      ],
+      "confidence": 0.7345,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_1_frame_00062_jpg.rf.1309ca261162717c42b6b70da28459df.jpg": [
+    {
+      "bbox": [
+        321,
+        431,
+        390,
+        497
+      ],
+      "confidence": 0.754,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        761,
+        229,
+        896,
+        280
+      ],
+      "confidence": 0.7039,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        300,
+        221,
+        405,
+        248
+      ],
+      "confidence": 0.7169,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        2,
+        253,
+        100,
+        327
+      ],
+      "confidence": 0.7645,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        312,
+        199,
+        725,
+        335
+      ],
+      "confidence": 0.7513,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        1,
+        197,
+        206,
+        346
+      ],
+      "confidence": 0.6685,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_2_frame_00037_jpg.rf.6605ceb2ee067aee1f9b59936c781dd2.jpg": [
+    {
+      "bbox": [
+        294,
+        214,
+        480,
+        266
+      ],
+      "confidence": 0.8213,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        293,
+        466,
+        352,
+        528
+      ],
+      "confidence": 0.7002,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        3,
+        195,
+        357,
+        424
+      ],
+      "confidence": 0.7557,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        529,
+        192,
+        734,
+        249
+      ],
+      "confidence": 0.8333,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_1_frame_00020_jpg.rf.12100c122ddc43aa5c20f3dc34f2ac1b.jpg": [
+    {
+      "bbox": [
+        438,
+        440,
+        492,
+        504
+      ],
+      "confidence": 0.6975,
+      "class_id": 0,
+      "class_name": "anchor"
+    }
+  ],
+  "vid5_1_frame_00089_jpg.rf.fd098c44fcf761de8f666a340d7879bd.jpg": [
+    {
+      "bbox": [
+        412,
+        441,
+        469,
+        504
+      ],
+      "confidence": 0.8081,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        718,
+        226,
+        824,
+        262
+      ],
+      "confidence": 0.8252,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        814,
+        226,
+        894,
+        273
+      ],
+      "confidence": 0.839,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        436,
+        247,
+        496,
+        266
+      ],
+      "confidence": 0.6756,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        556,
+        252,
+        591,
+        267
+      ],
+      "confidence": 0.7222,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        492,
+        251,
+        555,
+        273
+      ],
+      "confidence": 0.7836,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_1_frame_00074_jpg.rf.b4ef0c6e450a990c92601f3ceea4a62d.jpg": [
+    {
+      "bbox": [
+        501,
+        219,
+        675,
+        260
+      ],
+      "confidence": 0.7442,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        394,
+        436,
+        450,
+        500
+      ],
+      "confidence": 0.7564,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        590,
+        213,
+        896,
+        316
+      ],
+      "confidence": 0.6721,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        2,
+        212,
+        178,
+        295
+      ],
+      "confidence": 0.7082,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        454,
+        230,
+        514,
+        248
+      ],
+      "confidence": 0.6889,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        333,
+        244,
+        364,
+        253
+      ],
+      "confidence": 0.815,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        387,
+        238,
+        413,
+        251
+      ],
+      "confidence": 0.65,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        361,
+        240,
+        396,
+        252
+      ],
+      "confidence": 0.7735,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        430,
+        235,
+        471,
+        247
+      ],
+      "confidence": 0.7368,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        1,
+        329,
+        201,
+        533
+      ],
+      "confidence": 0.7932,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        592,
+        239,
+        723,
+        292
+      ],
+      "confidence": 0.7336,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        716,
+        206,
+        880,
+        247
+      ],
+      "confidence": 0.7524,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_7_frame_00007_jpg.rf.472539de71e2ef22cd04ecdb78f80d49.jpg": [
+    {
+      "bbox": [
+        637,
+        195,
+        887,
+        255
+      ],
+      "confidence": 0.8027,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        277,
+        203,
+        459,
+        254
+      ],
+      "confidence": 0.7624,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        337,
+        431,
+        392,
+        498
+      ],
+      "confidence": 0.8254,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        518,
+        213,
+        588,
+        243
+      ],
+      "confidence": 0.7795,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        567,
+        210,
+        632,
+        241
+      ],
+      "confidence": 0.7663,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        180,
+        219,
+        240,
+        253
+      ],
+      "confidence": 0.6884,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        2,
+        205,
+        190,
+        277
+      ],
+      "confidence": 0.7278,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        719,
+        215,
+        896,
+        317
+      ],
+      "confidence": 0.7518,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_1_frame_00008_jpg.rf.c5ee440fcd4b4c95ee37a036de962617.jpg": [
+    {
+      "bbox": [
+        424,
+        440,
+        479,
+        503
+      ],
+      "confidence": 0.66,
+      "class_id": 0,
+      "class_name": "anchor"
+    }
+  ],
+  "vid5_2_frame_00019_jpg.rf.af48dba6a3733a453bc71cc9a1301fbf.jpg": [
+    {
+      "bbox": [
+        5,
+        217,
+        176,
+        273
+      ],
+      "confidence": 0.7402,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        160,
+        205,
+        370,
+        265
+      ],
+      "confidence": 0.6639,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        389,
+        446,
+        443,
+        508
+      ],
+      "confidence": 0.6768,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        458,
+        213,
+        560,
+        239
+      ],
+      "confidence": 0.6937,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        581,
+        196,
+        888,
+        282
+      ],
+      "confidence": 0.6836,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_2_frame_00013_jpg.rf.8cbbeefec6d6809cc34b5f2877b57517.jpg": [
+    {
+      "bbox": [
+        331,
+        456,
+        387,
+        520
+      ],
+      "confidence": 0.6735,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        402,
+        213,
+        484,
+        246
+      ],
+      "confidence": 0.7752,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        565,
+        196,
+        891,
+        297
+      ],
+      "confidence": 0.7285,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        492,
+        200,
+        680,
+        262
+      ],
+      "confidence": 0.738,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        3,
+        215,
+        144,
+        259
+      ],
+      "confidence": 0.7138,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        118,
+        203,
+        302,
+        257
+      ],
+      "confidence": 0.7557,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_2_frame_00010_jpg.rf.5208aa7829f55254899cc6fe1f2320b8.jpg": [
+    {
+      "bbox": [
+        279,
+        459,
+        344,
+        531
+      ],
+      "confidence": 0.7415,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        42,
+        200,
+        262,
+        254
+      ],
+      "confidence": 0.7101,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        487,
+        196,
+        816,
+        285
+      ],
+      "confidence": 0.7215,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        424,
+        204,
+        588,
+        260
+      ],
+      "confidence": 0.7994,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        322,
+        219,
+        384,
+        246
+      ],
+      "confidence": 0.7595,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        0,
+        209,
+        78,
+        258
+      ],
+      "confidence": 0.6976,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        362,
+        218,
+        417,
+        239
+      ],
+      "confidence": 0.773,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_1_frame_00095_jpg.rf.bccb278d4576674812a4f2209a994756.jpg": [
+    {
+      "bbox": [
+        560,
+        254,
+        697,
+        303
+      ],
+      "confidence": 0.842,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        410,
+        439,
+        467,
+        503
+      ],
+      "confidence": 0.7073,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        262,
+        223,
+        387,
+        258
+      ],
+      "confidence": 0.7905,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        464,
+        252,
+        552,
+        282
+      ],
+      "confidence": 0.7494,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        762,
+        223,
+        894,
+        272
+      ],
+      "confidence": 0.7168,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        655,
+        238,
+        767,
+        264
+      ],
+      "confidence": 0.6829,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        185,
+        236,
+        268,
+        271
+      ],
+      "confidence": 0.8395,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        3,
+        225,
+        173,
+        259
+      ],
+      "confidence": 0.6676,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        389,
+        240,
+        409,
+        256
+      ],
+      "confidence": 0.8304,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_1_frame_00056_jpg.rf.85510081b0cad31aea1786d4d878bbba.jpg": [
+    {
+      "bbox": [
+        480,
+        196,
+        777,
+        260
+      ],
+      "confidence": 0.7997,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        2,
+        199,
+        173,
+        285
+      ],
+      "confidence": 0.6679,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        354,
+        450,
+        412,
+        514
+      ],
+      "confidence": 0.7665,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        236,
+        200,
+        463,
+        277
+      ],
+      "confidence": 0.8053,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        207,
+        219,
+        301,
+        244
+      ],
+      "confidence": 0.6984,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        485,
+        261,
+        820,
+        361
+      ],
+      "confidence": 0.7195,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        132,
+        227,
+        214,
+        240
+      ],
+      "confidence": 0.6939,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_4_frame_00001_jpg.rf.cab7ab9863831f314eba6c902061f6e6.jpg": [
+    {
+      "bbox": [
+        0,
+        217,
+        247,
+        315
+      ],
+      "confidence": 0.7412,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        36,
+        193,
+        896,
+        430
+      ],
+      "confidence": 0.7715,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_1_frame_00104_jpg.rf.95bc73bb4e7d16c4a5743c0b964ce75e.jpg": [
+    {
+      "bbox": [
+        7,
+        226,
+        493,
+        340
+      ],
+      "confidence": 0.7574,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        199,
+        447,
+        269,
+        520
+      ],
+      "confidence": 0.7127,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        440,
+        220,
+        687,
+        278
+      ],
+      "confidence": 0.7045,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        658,
+        230,
+        722,
+        266
+      ],
+      "confidence": 0.8402,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_2_frame_00001_jpg.rf.2f029e739436a8054a0e3ae8a922590f.jpg": [
+    {
+      "bbox": [
+        424,
+        237,
+        896,
+        361
+      ],
+      "confidence": 0.8208,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        130,
+        198,
+        417,
+        283
+      ],
+      "confidence": 0.7403,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        30,
+        198,
+        225,
+        260
+      ],
+      "confidence": 0.7189,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_1_frame_00101_jpg.rf.5d9669d107bb2516b85a65afa09ef7ed.jpg": [
+    {
+      "bbox": [
+        272,
+        221,
+        482,
+        267
+      ],
+      "confidence": 0.8318,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        636,
+        277,
+        817,
+        324
+      ],
+      "confidence": 0.6549,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        2,
+        216,
+        312,
+        305
+      ],
+      "confidence": 0.7888,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        317,
+        444,
+        377,
+        511
+      ],
+      "confidence": 0.832,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        622,
+        258,
+        707,
+        279
+      ],
+      "confidence": 0.7955,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_1_frame_00080_jpg.rf.455ac8b000f9fe8a618adc1b8937bc86.jpg": [
+    {
+      "bbox": [
+        0,
+        227,
+        130,
+        296
+      ],
+      "confidence": 0.7675,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        28,
+        239,
+        187,
+        273
+      ],
+      "confidence": 0.7907,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        164,
+        230,
+        312,
+        259
+      ],
+      "confidence": 0.8206,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        572,
+        212,
+        896,
+        276
+      ],
+      "confidence": 0.6969,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        363,
+        244,
+        401,
+        257
+      ],
+      "confidence": 0.6928,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        391,
+        441,
+        447,
+        505
+      ],
+      "confidence": 0.7058,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        394,
+        246,
+        435,
+        258
+      ],
+      "confidence": 0.7477,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        422,
+        237,
+        459,
+        255
+      ],
+      "confidence": 0.793,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        459,
+        225,
+        621,
+        252
+      ],
+      "confidence": 0.789,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        461,
+        236,
+        505,
+        249
+      ],
+      "confidence": 0.7584,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        220,
+        209,
+        338,
+        248
+      ],
+      "confidence": 0.6915,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_4_frame_00121_jpg.rf.93802feffb8b7bdda962673b3c6c3610.jpg": [
+    {
+      "bbox": [
+        673,
+        482,
+        749,
+        556
+      ],
+      "confidence": 0.7335,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        457,
+        236,
+        846,
+        303
+      ],
+      "confidence": 0.7741,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        249,
+        233,
+        442,
+        298
+      ],
+      "confidence": 0.7928,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_2_frame_00028_jpg.rf.ed5d0d8bc6532fd72dd562c7361c300a.jpg": [
+    {
+      "bbox": [
+        47,
+        203,
+        392,
+        307
+      ],
+      "confidence": 0.7464,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        288,
+        206,
+        430,
+        248
+      ],
+      "confidence": 0.7568,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        0,
+        247,
+        67,
+        313
+      ],
+      "confidence": 0.7928,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_1_frame_00041_jpg.rf.1e5ea18402d5a710f0c2fcdfdd8386e1.jpg": [
+    {
+      "bbox": [
+        458,
+        223,
+        804,
+        294
+      ],
+      "confidence": 0.7272,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        439,
+        449,
+        496,
+        511
+      ],
+      "confidence": 0.7874,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        347,
+        255,
+        485,
+        298
+      ],
+      "confidence": 0.8201,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        1,
+        252,
+        125,
+        282
+      ],
+      "confidence": 0.8134,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_4_frame_00076_jpg.rf.a9f9abc5f598df6f89ec5f6b949e3753.jpg": [
+    {
+      "bbox": [
+        50,
+        334,
+        192,
+        487
+      ],
+      "confidence": 0.7611,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        504,
+        241,
+        853,
+        318
+      ],
+      "confidence": 0.6691,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        0,
+        193,
+        499,
+        290
+      ],
+      "confidence": 0.7689,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_2_frame_00016_jpg.rf.3687407faeb29877f57df754a2fc9d7b.jpg": [
+    {
+      "bbox": [
+        428,
+        217,
+        535,
+        246
+      ],
+      "confidence": 0.8276,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        1,
+        196,
+        185,
+        266
+      ],
+      "confidence": 0.8334,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        153,
+        204,
+        355,
+        260
+      ],
+      "confidence": 0.7267,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        550,
+        199,
+        782,
+        268
+      ],
+      "confidence": 0.7349,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        665,
+        195,
+        893,
+        322
+      ],
+      "confidence": 0.7637,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        0,
+        234,
+        60,
+        268
+      ],
+      "confidence": 0.7321,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        357,
+        451,
+        410,
+        512
+      ],
+      "confidence": 0.7975,
+      "class_id": 0,
+      "class_name": "anchor"
+    }
+  ],
+  "vid5_1_frame_00092_jpg.rf.6b750f74df7216e44ffcce5c5288d351.jpg": [
+    {
+      "bbox": [
+        0,
+        230,
+        247,
+        274
+      ],
+      "confidence": 0.7161,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        246,
+        224,
+        382,
+        255
+      ],
+      "confidence": 0.7382,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        364,
+        237,
+        401,
+        253
+      ],
+      "confidence": 0.6513,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        519,
+        253,
+        612,
+        283
+      ],
+      "confidence": 0.7077,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        592,
+        224,
+        892,
+        269
+      ],
+      "confidence": 0.8227,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        416,
+        440,
+        471,
+        504
+      ],
+      "confidence": 0.6967,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        447,
+        249,
+        520,
+        272
+      ],
+      "confidence": 0.7796,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        591,
+        251,
+        642,
+        280
+      ],
+      "confidence": 0.8147,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_1_frame_00014_jpg.rf.28f33a6440cbc2981359c72834b31dfa.jpg": [
+    {
+      "bbox": [
+        433,
+        442,
+        489,
+        506
+      ],
+      "confidence": 0.7751,
+      "class_id": 0,
+      "class_name": "anchor"
+    }
+  ],
+  "vid5_1_frame_00059_jpg.rf.670e86e6e76c27a865c556f6cad58d60.jpg": [
+    {
+      "bbox": [
+        271,
+        196,
+        534,
+        289
+      ],
+      "confidence": 0.6516,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        332,
+        441,
+        393,
+        508
+      ],
+      "confidence": 0.805,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        545,
+        197,
+        888,
+        271
+      ],
+      "confidence": 0.7772,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        2,
+        198,
+        183,
+        294
+      ],
+      "confidence": 0.7686,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        251,
+        219,
+        340,
+        243
+      ],
+      "confidence": 0.6896,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        606,
+        232,
+        721,
+        267
+      ],
+      "confidence": 0.6586,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        545,
+        219,
+        651,
+        255
+      ],
+      "confidence": 0.6605,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        263,
+        215,
+        365,
+        276
+      ],
+      "confidence": 0.8265,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        609,
+        292,
+        892,
+        434
+      ],
+      "confidence": 0.7289,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        211,
+        225,
+        256,
+        239
+      ],
+      "confidence": 0.8315,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_1_frame_00047_jpg.rf.a573e611739a0b7a18bda80fd31bf91c.jpg": [
+    {
+      "bbox": [
+        330,
+        243,
+        503,
+        286
+      ],
+      "confidence": 0.6703,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        176,
+        254,
+        323,
+        300
+      ],
+      "confidence": 0.7817,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        421,
+        452,
+        476,
+        514
+      ],
+      "confidence": 0.6673,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        458,
+        195,
+        896,
+        301
+      ],
+      "confidence": 0.7859,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        337,
+        285,
+        443,
+        305
+      ],
+      "confidence": 0.7847,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_2_frame_00004_jpg.rf.dd94c841d1327c4b16c244501c27ceb8.jpg": [
+    {
+      "bbox": [
+        63,
+        204,
+        236,
+        261
+      ],
+      "confidence": 0.8032,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        155,
+        205,
+        419,
+        285
+      ],
+      "confidence": 0.7028,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        423,
+        238,
+        884,
+        351
+      ],
+      "confidence": 0.6582,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        1,
+        218,
+        65,
+        249
+      ],
+      "confidence": 0.8052,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        226,
+        449,
+        292,
+        514
+      ],
+      "confidence": 0.73,
+      "class_id": 0,
+      "class_name": "anchor"
+    }
+  ],
+  "vid5_1_frame_00110_jpg.rf.1cd9f84dd4e7eef5ee13343bcf5509f5.jpg": [
+    {
+      "bbox": [
+        289,
+        458,
+        347,
+        521
+      ],
+      "confidence": 0.6966,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        402,
+        224,
+        886,
+        461
+      ],
+      "confidence": 0.7218,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        3,
+        229,
+        413,
+        503
+      ],
+      "confidence": 0.7049,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_3_frame_00038_jpg.rf.662cb30623d709da2ac6ef1793e5ad01.jpg": [
+    {
+      "bbox": [
+        530,
+        207,
+        738,
+        260
+      ],
+      "confidence": 0.6699,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        290,
+        450,
+        349,
+        519
+      ],
+      "confidence": 0.8117,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        99,
+        208,
+        522,
+        318
+      ],
+      "confidence": 0.6932,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        749,
+        202,
+        896,
+        255
+      ],
+      "confidence": 0.6552,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_1_frame_00011_jpg.rf.6c980bc8cebf84590cd23e85750618c9.jpg": [
+    {
+      "bbox": [
+        426,
+        445,
+        480,
+        509
+      ],
+      "confidence": 0.8176,
+      "class_id": 0,
+      "class_name": "anchor"
+    }
+  ],
+  "vid5_1_frame_00050_jpg.rf.c9b159e4efedc53eb33bef84febe845f.jpg": [
+    {
+      "bbox": [
+        386,
+        447,
+        446,
+        511
+      ],
+      "confidence": 0.8388,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        532,
+        197,
+        886,
+        313
+      ],
+      "confidence": 0.7754,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        181,
+        241,
+        333,
+        293
+      ],
+      "confidence": 0.6874,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        504,
+        260,
+        607,
+        311
+      ],
+      "confidence": 0.6689,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        126,
+        254,
+        200,
+        280
+      ],
+      "confidence": 0.7079,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        386,
+        257,
+        483,
+        279
+      ],
+      "confidence": 0.8115,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        166,
+        255,
+        221,
+        289
+      ],
+      "confidence": 0.7064,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        354,
+        280,
+        490,
+        308
+      ],
+      "confidence": 0.6716,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        356,
+        228,
+        560,
+        274
+      ],
+      "confidence": 0.679,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_5_frame_00047_jpg.rf.4c12f65665601a0af8b6259236b960f2.jpg": [
+    {
+      "bbox": [
+        535,
+        463,
+        593,
+        524
+      ],
+      "confidence": 0.759,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        0,
+        202,
+        894,
+        444
+      ],
+      "confidence": 0.8387,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_2_frame_00022_jpg.rf.0cb373d6fa4b4a9dc1c304c67f5fffb9.jpg": [
+    {
+      "bbox": [
+        155,
+        209,
+        403,
+        277
+      ],
+      "confidence": 0.7591,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        528,
+        220,
+        598,
+        250
+      ],
+      "confidence": 0.8424,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        0,
+        222,
+        166,
+        288
+      ],
+      "confidence": 0.7996,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        416,
+        451,
+        468,
+        512
+      ],
+      "confidence": 0.8493,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        481,
+        222,
+        539,
+        259
+      ],
+      "confidence": 0.7123,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        607,
+        195,
+        889,
+        292
+      ],
+      "confidence": 0.6971,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_2_frame_00007_jpg.rf.03a254374ffa8178423aba80a750989f.jpg": [
+    {
+      "bbox": [
+        243,
+        206,
+        378,
+        260
+      ],
+      "confidence": 0.6737,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        305,
+        206,
+        554,
+        284
+      ],
+      "confidence": 0.7067,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        564,
+        254,
+        894,
+        380
+      ],
+      "confidence": 0.8013,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        130,
+        220,
+        195,
+        251
+      ],
+      "confidence": 0.8446,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        221,
+        465,
+        286,
+        528
+      ],
+      "confidence": 0.6951,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        180,
+        219,
+        239,
+        243
+      ],
+      "confidence": 0.7334,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        0,
+        213,
+        58,
+        257
+      ],
+      "confidence": 0.6965,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_1_frame_00077_jpg.rf.3a42e63adc412e0ada289bffa48ca590.jpg": [
+    {
+      "bbox": [
+        699,
+        241,
+        894,
+        345
+      ],
+      "confidence": 0.7133,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        166,
+        240,
+        277,
+        266
+      ],
+      "confidence": 0.7707,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        0,
+        213,
+        158,
+        291
+      ],
+      "confidence": 0.8089,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        345,
+        243,
+        380,
+        255
+      ],
+      "confidence": 0.803,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        534,
+        216,
+        739,
+        264
+      ],
+      "confidence": 0.6642,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        394,
+        440,
+        451,
+        503
+      ],
+      "confidence": 0.8481,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        703,
+        209,
+        890,
+        273
+      ],
+      "confidence": 0.7427,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        503,
+        222,
+        586,
+        250
+      ],
+      "confidence": 0.7359,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        373,
+        245,
+        410,
+        256
+      ],
+      "confidence": 0.7789,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        441,
+        235,
+        497,
+        248
+      ],
+      "confidence": 0.8177,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        490,
+        233,
+        532,
+        249
+      ],
+      "confidence": 0.6853,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        404,
+        242,
+        434,
+        258
+      ],
+      "confidence": 0.7591,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_4_frame_00106_jpg.rf.1cb5ca4731163c81fca475a1e52d37e3.jpg": [
+    {
+      "bbox": [
+        696,
+        306,
+        896,
+        420
+      ],
+      "confidence": 0.7803,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        173,
+        268,
+        424,
+        356
+      ],
+      "confidence": 0.8017,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        139,
+        231,
+        328,
+        273
+      ],
+      "confidence": 0.6529,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        308,
+        235,
+        432,
+        270
+      ],
+      "confidence": 0.6777,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_1_frame_00065_jpg.rf.5dc1405d718a6a235c5c4cf04448b78e.jpg": [
+    {
+      "bbox": [
+        324,
+        437,
+        384,
+        503
+      ],
+      "confidence": 0.7145,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        379,
+        194,
+        896,
+        589
+      ],
+      "confidence": 0.7063,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        0,
+        195,
+        240,
+        452
+      ],
+      "confidence": 0.7106,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        342,
+        220,
+        473,
+        252
+      ],
+      "confidence": 0.7713,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        239,
+        239,
+        272,
+        248
+      ],
+      "confidence": 0.7638,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        316,
+        230,
+        364,
+        245
+      ],
+      "confidence": 0.8439,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_6_frame_00002_jpg.rf.7c84b4aa1680cfb1033abdadf2a3bcc3.jpg": [
+    {
+      "bbox": [
+        109,
+        216,
+        265,
+        264
+      ],
+      "confidence": 0.707,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        0,
+        214,
+        109,
+        263
+      ],
+      "confidence": 0.7082,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        334,
+        441,
+        391,
+        506
+      ],
+      "confidence": 0.7113,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        240,
+        248,
+        350,
+        294
+      ],
+      "confidence": 0.6584,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ],
+  "vid5_2_frame_00031_jpg.rf.fcd578a484494ed50378014094a40cdf.jpg": [
+    {
+      "bbox": [
+        277,
+        220,
+        421,
+        254
+      ],
+      "confidence": 0.7207,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        5,
+        200,
+        408,
+        342
+      ],
+      "confidence": 0.8081,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        429,
+        449,
+        483,
+        510
+      ],
+      "confidence": 0.7235,
+      "class_id": 0,
+      "class_name": "anchor"
+    },
+    {
+      "bbox": [
+        524,
+        214,
+        623,
+        272
+      ],
+      "confidence": 0.7042,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        576,
+        214,
+        651,
+        248
+      ],
+      "confidence": 0.7387,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        460,
+        222,
+        544,
+        251
+      ],
+      "confidence": 0.695,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    },
+    {
+      "bbox": [
+        683,
+        195,
+        889,
+        287
+      ],
+      "confidence": 0.8415,
+      "class_id": 1,
+      "class_name": "pile of gravel"
+    }
+  ]
+}

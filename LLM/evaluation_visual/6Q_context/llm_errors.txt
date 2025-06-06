@@ -1,0 +1,1082 @@
+vid1_frame_100170.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile4
+
+vid1_frame_10020.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile1
+
+vid1_frame_100200.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile7
+task: Start at the leftmost pile:
+- correct: pile6
+- LLM:     pile7
+
+vid1_frame_10050.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile2
+
+vid1_frame_104820.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile3
+
+vid1_frame_10530.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile3
+
+vid1_frame_10560.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile5
+
+vid1_frame_10590.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile4
+
+vid1_frame_10620.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile4
+
+vid1_frame_10650.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile3
+
+vid1_frame_106560.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile1
+
+vid1_frame_106590.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile4
+- LLM:     pile1
+
+vid1_frame_10680.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile1
+
+vid1_frame_109860.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile5
+
+vid1_frame_109950.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile4
+
+vid1_frame_11670.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile6
+
+vid1_frame_11700.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile1
+
+vid1_frame_12510.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile2
+
+vid1_frame_12540.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile4
+
+vid1_frame_12630.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile3
+
+vid1_frame_12660.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile4
+
+vid1_frame_14460.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile4
+- LLM:     pile1
+
+vid1_frame_14520.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile1
+
+vid1_frame_14580.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile2
+
+vid1_frame_14610.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile4
+
+vid1_frame_14640.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile4
+
+vid1_frame_15240.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile5
+
+vid1_frame_15360.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile2
+task: Fill the shovel:
+- correct: pile1
+- LLM:     pile2
+
+vid1_frame_15390.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile1
+
+vid1_frame_16380.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile4
+
+vid1_frame_16410.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile1
+
+vid1_frame_16470.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile1
+
+vid1_frame_16530.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile3
+
+vid1_frame_16560.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile3
+
+vid1_frame_16590.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile1
+
+vid1_frame_16620.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile1
+
+vid1_frame_16830.jpg:
+task: Process the largest pile:
+- correct: pile3
+- LLM:     pile1
+
+vid1_frame_16920.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile3
+task: Process the largest pile:
+- correct: pile2
+- LLM:     pile1
+
+vid1_frame_16950.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile3
+
+vid1_frame_16980.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile2
+
+vid1_frame_17010.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile2
+
+vid1_frame_17070.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile4
+
+vid1_frame_19590.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile2
+
+vid1_frame_19620.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile1
+
+vid1_frame_19800.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile2
+
+vid1_frame_19890.jpg:
+task: Clear a remote pile:
+- correct: pile4
+- LLM:     pile5
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile2
+
+vid1_frame_19980.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile4
+- LLM:     pile5
+
+vid1_frame_20010.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile3
+
+vid1_frame_20100.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile5
+- LLM:     pile3
+
+vid1_frame_20160.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile5
+
+vid1_frame_20190.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile2
+
+vid1_frame_20220.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile2
+
+vid1_frame_20250.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile2
+
+vid1_frame_20520.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile2
+
+vid1_frame_20550.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile4
+
+vid1_frame_20700.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile1
+
+vid1_frame_20790.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile2
+
+vid1_frame_20880.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile3
+
+vid1_frame_21090.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile1
+
+vid1_frame_21120.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile3
+
+vid1_frame_21150.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile3
+
+vid1_frame_21180.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile4
+
+vid1_frame_21240.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile5
+
+vid1_frame_21270.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile4
+- LLM:     pile1
+
+vid1_frame_21300.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile5
+- LLM:     pile1
+
+vid1_frame_21840.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile4
+
+vid1_frame_21930.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile4
+
+vid1_frame_21960.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile5
+
+vid1_frame_21990.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile5
+
+vid1_frame_22110.jpg:
+task: Fill the shovel:
+- correct: pile7
+- LLM:     pile5
+
+vid1_frame_22200.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile4
+- LLM:     pile2
+
+vid1_frame_22380.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile3
+
+vid1_frame_22680.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile3
+
+vid1_frame_22740.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile3
+
+vid1_frame_22860.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile4
+
+vid1_frame_23070.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile1
+
+vid1_frame_23130.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile2
+
+vid1_frame_24300.jpg:
+task: Fill the shovel:
+- correct: pile2
+- LLM:     pile1
+
+vid1_frame_24780.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile1
+
+vid1_frame_25710.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile3
+
+vid1_frame_25740.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile3
+
+vid1_frame_25770.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile3
+
+vid1_frame_25800.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile2
+
+vid1_frame_26970.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile3
+
+vid1_frame_27000.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile3
+
+vid1_frame_27060.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile2
+
+vid1_frame_30870.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile4
+- LLM:     pile2
+
+vid1_frame_31170.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile5
+
+vid1_frame_31200.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile5
+- LLM:     pile2
+
+vid1_frame_32370.jpg:
+task: Fill the shovel:
+- correct: pile1
+- LLM:     pile6
+
+vid1_frame_32940.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile4
+
+vid1_frame_33000.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile4
+task: Fill the shovel:
+- correct: pile1
+- LLM:     pile4
+
+vid1_frame_33030.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile4
+task: Fill the shovel:
+- correct: pile2
+- LLM:     pile4
+
+vid1_frame_35370.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile2
+task: Process the largest pile:
+- correct: pile1
+- LLM:     pile4
+
+vid1_frame_35400.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile4
+task: Process the largest pile:
+- correct: pile1
+- LLM:     pile3
+
+vid1_frame_37650.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile5
+- LLM:     pile6
+
+vid1_frame_38040.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile7
+- LLM:     pile6
+
+vid1_frame_38310.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile2
+
+vid1_frame_39300.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile5
+
+vid1_frame_39930.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile1
+
+vid1_frame_72300.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile2
+
+vid1_frame_72390.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile4
+
+vid1_frame_72420.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile4
+- LLM:     pile3
+
+vid1_frame_72450.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile4
+- LLM:     pile3
+
+vid1_frame_73110.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile5
+- LLM:     pile1
+
+vid1_frame_73140.jpg:
+task: Clear a remote pile:
+- correct: pile5
+- LLM:     pile2
+task: Clear a pile as fast as possible:
+- correct: pile4
+- LLM:     pile5
+
+vid1_frame_73650.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile3
+
+vid1_frame_73950.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile1
+
+vid1_frame_73980.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile1
+
+vid1_frame_74670.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile4
+- LLM:     pile2
+
+vid1_frame_7680.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile3
+
+vid1_frame_76980.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile1
+
+vid1_frame_7710.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile1
+
+vid1_frame_7740.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile2
+
+vid1_frame_78030.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile4
+- LLM:     pile5
+
+vid1_frame_78060.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile4
+- LLM:     pile6
+
+vid1_frame_7860.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile4
+- LLM:     pile3
+
+vid1_frame_7890.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile5
+- LLM:     pile1
+
+vid1_frame_7950.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile4
+- LLM:     pile3
+
+vid1_frame_80490.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile2
+
+vid1_frame_80670.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile4
+
+vid1_frame_80820.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile2
+
+vid1_frame_8100.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile2
+task: Fill the shovel:
+- correct: pile1
+- LLM:     pile2
+
+vid1_frame_8130.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile3
+task: Fill the shovel:
+- correct: pile1
+- LLM:     pile3
+
+vid1_frame_8160.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile2
+
+vid1_frame_8550.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile3
+
+vid1_frame_8610.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile4
+
+vid1_frame_92550.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile2
+
+vid1_frame_92970.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile6
+- LLM:     pile3
+
+vid1_frame_93000.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile8
+- LLM:     pile5
+task: Fill the shovel:
+- correct: pile8
+- LLM:     pile4
+
+vid1_frame_96240.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile3
+
+vid1_frame_96270.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile3
+
+vid1_frame_9780.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile2
+
+vid1_frame_98010.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile5
+
+vid1_frame_9810.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile3
+
+vid1_frame_9840.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile3
+
+vid1_frame_9870.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile1
+
+vid1_frame_9900.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile4
+
+vid1_frame_9930.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile2
+
+vid1_frame_9960.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile2
+
+vid1_frame_9990.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile1
+
+vid2_frame_10320.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile5
+- LLM:     pile3
+
+vid2_frame_11130.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile4
+
+vid2_frame_11160.jpg:
+task: Fill the shovel:
+- correct: pile2
+- LLM:     pile1
+
+vid2_frame_11190.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile2
+
+vid2_frame_11280.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile1
+
+vid2_frame_11430.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile5
+- LLM:     pile6
+
+vid2_frame_11550.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile6
+
+vid2_frame_11580.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile3
+task: Fill the shovel:
+- correct: pile2
+- LLM:     pile6
+
+vid2_frame_11910.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile1
+
+vid2_frame_17550.jpg:
+task: Fill the shovel:
+- correct: pile3
+- LLM:     pile4
+
+vid2_frame_17700.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile6
+- LLM:     pile2
+
+vid2_frame_17790.jpg:
+task: Clear a remote pile:
+- correct: pile6
+- LLM:     pile4
+task: Clear a pile as fast as possible:
+- correct: pile7
+- LLM:     pile4
+task: Fill the shovel:
+- correct: pile7
+- LLM:     pile5
+
+vid2_frame_20370.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile4
+- LLM:     pile3
+
+vid2_frame_20820.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile4
+
+vid2_frame_20880.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile2
+
+vid2_frame_20910.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile2
+task: Fill the shovel:
+- correct: pile1
+- LLM:     pile4
+
+vid2_frame_21300.jpg:
+task: Clear a remote pile:
+- correct: pile1
+- LLM:     pile3
+task: Fill the shovel:
+- correct: pile2
+- LLM:     pile5
+
+vid2_frame_23310.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile6
+- LLM:     pile5
+
+vid2_frame_29580.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile4
+
+vid2_frame_31050.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile3
+
+vid2_frame_31080.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile3
+task: Fill the shovel:
+- correct: pile2
+- LLM:     pile1
+
+vid2_frame_31710.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile3
+
+vid2_frame_33270.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile2
+
+vid2_frame_46800.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile6
+
+vid2_frame_9330.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile4
+
+vid4_frame_120.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile5
+
+vid4_frame_12420.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile2
+
+vid4_frame_12450.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile4
+
+vid4_frame_12540.jpg:
+task: Fill the shovel:
+- correct: pile2
+- LLM:     pile4
+
+vid4_frame_13110.jpg:
+task: Fill the shovel:
+- correct: pile6
+- LLM:     pile3
+
+vid4_frame_152190.jpg:
+task: Process the largest pile:
+- correct: pile2
+- LLM:     pile1
+
+vid4_frame_155640.jpg:
+task: Process the largest pile:
+- correct: pile3
+- LLM:     pile4
+
+vid4_frame_20460.jpg:
+task: Clear a remote pile:
+- correct: pile2
+- LLM:     pile1
+task: Fill the shovel:
+- correct: pile1
+- LLM:     pile2
+
+vid4_frame_22770.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile4
+
+vid4_frame_22800.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile3
+
+vid4_frame_22860.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile4
+
+vid4_frame_22920.jpg:
+task: Clear a remote pile:
+- correct: pile7
+- LLM:     pile4
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile5
+
+vid4_frame_22950.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile6
+
+vid4_frame_22980.jpg:
+task: Clear a remote pile:
+- correct: pile6
+- LLM:     pile4
+task: Clear a pile as fast as possible:
+- correct: pile5
+- LLM:     pile7
+task: Fill the shovel:
+- correct: pile5
+- LLM:     pile1
+
+vid4_frame_240.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile5
+
+vid4_frame_30.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile2
+
+vid4_frame_5130.jpg:
+task: Clear a remote pile:
+- correct: pile5
+- LLM:     pile2
+task: Clear a pile as fast as possible:
+- correct: pile4
+- LLM:     pile3
+task: Fill the shovel:
+- correct: pile4
+- LLM:     pile1
+
+vid4_frame_66030.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile3
+
+vid4_frame_66090.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile2
+task: Fill the shovel:
+- correct: pile1
+- LLM:     pile2
+
+vid4_frame_66120.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile5
+task: Fill the shovel:
+- correct: pile1
+- LLM:     pile2
+
+vid4_frame_66630.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile6
+task: Process the largest pile:
+- correct: pile7
+- LLM:     pile5
+task: Fill the shovel:
+- correct: pile1
+- LLM:     pile6
+
+vid4_frame_66660.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile5
+
+vid4_frame_70020.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile1
+
+vid4_frame_7830.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile5
+
+vid4_frame_7920.jpg:
+task: Clear a remote pile:
+- correct: pile6
+- LLM:     pile4
+task: Clear a pile as fast as possible:
+- correct: pile3
+- LLM:     pile5
+task: Fill the shovel:
+- correct: pile3
+- LLM:     pile5
+
+vid4_frame_8280.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile4
+- LLM:     pile3
+
+vid4_frame_8430.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile5
+- LLM:     pile2
+task: Process the largest pile:
+- correct: pile4
+- LLM:     pile3
+
+vid4_frame_900.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile1
+- LLM:     pile3
+
+vid4_frame_92490.jpg:
+task: Clear a remote pile:
+- correct: pile5
+- LLM:     pile4
+
+vid4_frame_92610.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile3
+
+vid4_frame_92640.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile6
+
+vid4_frame_9840.jpg:
+task: Clear a pile as fast as possible:
+- correct: pile2
+- LLM:     pile1

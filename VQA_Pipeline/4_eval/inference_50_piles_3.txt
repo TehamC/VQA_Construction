@@ -1,0 +1,21 @@
+
+=== Number of Piles: 1 ===
+Context:
+You are a caterpillar in a construction site. In the following you will be given geometric data of piles of gravel such as their position and size. Alongside the piles you will be given an anchor (your position), which you can use as a reference to determine distances and relative positions.
+Anchor position: (670.4, 43.7)
+Following piles are present:
+pile1: position=(844.1, 272.7), area=15480.7
+
+
+Task: Start at the rightmost pile
+  Model Answer: drive to pile1[844    (Metric: x-coordinate=844.1)
+  Ground Truth: drive to pile1[844.1, 272.7] and initiate digging    (Metric: x-coordinate=844.1)
+  Correct: True
+  Inference Time: 1.03 s
+
+Task: Clear a remote pile
+  Model Answer: drive to the farthest pile: pile1[844    (Metric: distance=287.4)
+  Ground Truth: drive to the farthest pile: pile1[844.1, 272.7] and initiate digging    (Metric: distance=287.4)
+  Correct: True
+  Inference Time: 0.68 s
+
